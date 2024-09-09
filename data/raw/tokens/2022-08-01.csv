@@ -1,0 +1,101 @@
+name,symbol,id,market_cap
+Ethereum,eth,ethereum,201684547325.2247
+Tether,usdt,tether,65871066520.41806
+USDC,usdc,usd-coin,54475694589.20637
+BNB,bnb,binancecoin,46356068027.89319
+BUSD,busd,binance-usd,17895668779.12032
+Polygon,matic,matic-network,7457474067.138153
+Lido Staked Ether,steth,staked-ether,7010984455.047548
+Dai,dai,dai,6964240255.801548
+Shiba Inu,shib,shiba-inu,6923437096.548031
+Wrapped Bitcoin,wbtc,wrapped-bitcoin,5532637134.641555
+OKB,okb,okb,4697290973.982973
+LEO Token,leo,leo-token,4693204526.820504
+Uniswap,uni,uniswap,3845847929.9502387
+Chainlink,link,chainlink,3583584499.1434155
+Cronos,cro,crypto-com-chain,3477421688.392209
+NEAR Protocol,near,near,3190816616.823693
+ApeCoin,ape,apecoin,2066666838.748153
+Onyxcoin,xcn,chain-2,2041048433.2343824
+Decentraland,mana,decentraland,1778340138.860554
+The Sandbox,sand,the-sandbox,1689127563.1117265
+Axie Infinity,axs,axie-infinity,1603954663.2066064
+Frax,frax,frax,1466172392.1884325
+Quant,qnt,quant-network,1382661543.6839597
+Aave,aave,aave,1378965563.2737217
+TrueUSD,tusd,true-usd,1187834854.1561942
+Lido DAO,ldo,lido-dao,1139584783.005405
+cUSDC,cusdc,compound-usd-coin,1030660232.0275848
+Maker,mkr,maker,995999217.2739888
+The Graph,grt,the-graph,952488101.715826
+BitTorrent,btt,bittorrent,912619450.1141732
+cETH,ceth,compound-ether,911189144.7263443
+Huobi BTC,hbtc,huobi-btc,909229102.1756037
+Pax Dollar,usdp,paxos-standard,871214052.4450212
+Fantom,ftm,fantom,838495954.2978892
+Synthetix Network,snx,havven,827089505.2502165
+cDAI,cdai,cdai,785224612.1138914
+USDD,usdd,usdd,724852990.4926989
+Huobi,ht,huobi-token,695134768.3793653
+Amp,amp,amp-token,694677567.7006586
+Chiliz,chz,chiliz,654979742.5741688
+DeFiChain,dfi,defichain,648855757.0793489
+Gate,gt,gatechain-token,647948923.7931114
+Zilliqa,zil,zilliqa,624071146.5498388
+Basic Attention,bat,basic-attention-token,600390828.2780588
+PAX Gold,paxg,pax-gold,599725247.359909
+PancakeSwap,cake,pancakeswap-token,582247957.915046
+GMT,gmt,stepn,576397005.5247272
+Enjin Coin,enj,enjincoin,575935756.3515247
+Waves,waves,waves,571014570.5517403
+Frax Share,fxs,frax-share,537213400.2850661
+Loopring,lrc,loopring,523249567.74368787
+Curve DAO,crv,curve-dao-token,517359782.31747407
+Convex Finance,cvx,convex-finance,491685885.02271575
+ECOMI,omi,ecomi,478231255.01200783
+Celsius Network,cel,celsius-degree-token,465960923.18010175
+1inch,1inch,1inch,439253200.1418817
+GALA,gala,gala,432462945.4345336
+Tether Gold,xaut,tether-gold,423746575.5869085
+Gnosis,gno,gnosis,415165963.323723
+XDC Network,xdc,xdce-crowd-sale,408552580.12117726
+Tokenize Xchange,tkx,tokenize-xchange,402852202.7906613
+Holo,hot,holotoken,402531568.00288427
+NEXO,nexo,nexo,399037647.3252136
+Compound,comp,compound-governance-token,392808973.8122617
+Ethereum Name Service,ens,ethereum-name-service,371295843.11375856
+Serum,srm,serum,370234528.2019742
+Nexus Mutual,nxm,nxm,361193339.771024
+Rocket Pool,rpl,rocket-pool,357717439.29146516
+Olympus,ohm,olympus,350902519.83158404
+yearn.finance,yfi,yearn-finance,345876310.88398266
+0x Protocol,zrx,0x,330796515.86883885
+IoTeX,iotx,iotex,316110834.4821535
+OMG Network,omg,omisego,309808847.9708773
+Evmos,evmos,evmos,308891417.9008502
+Livepeer,lpt,livepeer,300286909.24574095
+dYdX,ethdydx,dydx,284755621.03337103
+Audius,audio,audius,282823459.1108909
+Sushi,sushi,sushi,279025575.5429561
+Golem,glm,golem,267037483.9735801
+Synapse,syn,synapse-2,265457604.0650037
+Immutable,imx,immutable-x,256467954.32064325
+Ankr Network,ankr,ankr,248163439.488998
+Merit Circle,mc,merit-circle,241421781.0577949
+WOO,woo,woo-network,239676401.69784713
+Pundi X,pundix,pundi-x-2,234985125.07888106
+WAX,waxp,wax,232142155.42959154
+Escoin,elg,escoin-token,228752259.23020595
+Magic Internet Money (Ethereum),mim,magic-internet-money,219853243.05025256
+Solar,sxp,swipe,217900461.51546317
+Balancer,bal,balancer,217190093.82012194
+SKALE,skl,skale,214432693.71281618
+Euro Tether,eurt,tether-eurt,210240842.89245722
+Baby Doge Coin,babydoge,baby-doge-coin,205751647.39443824
+LooksRare,looks,looksrare,202715091.25120792
+Render,render,render-token,200447173.87559542
+UMA,uma,uma,198513047.35597506
+Polymath,poly,polymath,197957417.14884707
+Fei USD,fei,fei-usd,197148721.63169262
+CEEK Smart VR,ceek,ceek,196314786.98153096
+Dogelon Mars,elon,dogelon-mars,195680929.29400027

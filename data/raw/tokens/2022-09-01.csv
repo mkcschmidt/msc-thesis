@@ -1,0 +1,101 @@
+name,symbol,id,market_cap
+Ethereum,eth,ethereum,186670000430.8127
+Tether,usdt,tether,67580452604.835976
+USDC,usdc,usd-coin,52330137597.63609
+BNB,bnb,binancecoin,45512248503.54616
+BUSD,busd,binance-usd,19318797885.833733
+Shiba Inu,shib,shiba-inu,7125952406.09626
+Dai,dai,dai,6520075249.980125
+Lido Staked Ether,steth,staked-ether,6466310230.106593
+Polygon,matic,matic-network,6186959627.576328
+LEO Token,leo,leo-token,5403919394.903751
+Wrapped Bitcoin,wbtc,wrapped-bitcoin,4953696519.868657
+OKB,okb,okb,3914255248.5237064
+NEAR Protocol,near,near,3372250381.7076874
+Chainlink,link,chainlink,3096582025.4357977
+Cronos,cro,crypto-com-chain,3080716801.79146
+Uniswap,uni,uniswap,2793283428.62159
+Onyxcoin,xcn,chain-2,1770505474.3753545
+Frax,frax,frax,1495419609.4720857
+ApeCoin,ape,apecoin,1492315774.9714844
+Decentraland,mana,decentraland,1400061481.4744253
+The Sandbox,sand,the-sandbox,1390847114.0106654
+Quant,qnt,quant-network,1291995090.9817526
+Axie Infinity,axs,axie-infinity,1275620957.6207044
+Aave,aave,aave,1186715233.9140522
+Lido DAO,ldo,lido-dao,1166442540.0865667
+Chiliz,chz,chiliz,1157414714.4965975
+TrueUSD,tusd,true-usd,1078091611.1228266
+cUSDC,cusdc,compound-usd-coin,1002560936.5106779
+Pax Dollar,usdp,paxos-standard,963172402.0062578
+BitTorrent,btt,bittorrent,828005680.8735118
+cETH,ceth,compound-ether,814152147.6085794
+Huobi BTC,hbtc,huobi-btc,778016177.6019286
+The Graph,grt,the-graph,758212122.338717
+USDD,usdd,usdd,723460030.8381735
+Huobi,ht,huobi-token,717322204.1724303
+Fantom,ftm,fantom,693925401.3480332
+Synthetix Network,snx,havven,691426691.1697643
+cDAI,cdai,cdai,687728836.4083414
+Maker,mkr,maker,687055199.434932
+Evmos,evmos,evmos,676843656.7072152
+Gate,gt,gatechain-token,624009004.705448
+NEXO,nexo,nexo,603740162.6878105
+PAX Gold,paxg,pax-gold,567605581.6895616
+PancakeSwap,cake,pancakeswap-token,542397901.1857144
+Zilliqa,zil,zilliqa,535624523.4115468
+DeFiChain,dfi,defichain,531348565.2879926
+Basic Attention,bat,basic-attention-token,502917400.3961384
+Enjin Coin,enj,enjincoin,482935303.74692535
+Celsius Network,cel,celsius-degree-token,478465655.5719985
+Amp,amp,amp-token,471146327.4199833
+Curve DAO,crv,curve-dao-token,451330179.95760894
+Waves,waves,waves,451203516.6038908
+Loopring,lrc,loopring,438197299.08542573
+Tether Gold,xaut,tether-gold,420653441.6491706
+Tokenize Xchange,tkx,tokenize-xchange,420448418.6474887
+GMT,gmt,stepn,403460624.6401216
+Gnosis,gno,gnosis,399142378.15333843
+1inch,1inch,1inch,387058491.1187851
+Frax Share,fxs,frax-share,381507774.97979414
+Rocket Pool,rpl,rocket-pool,379698671.5696828
+GALA,gala,gala,379499136.7643194
+ECOMI,omi,ecomi,379197850.88079345
+Holo,hot,holotoken,369012917.791659
+XDC Network,xdc,xdce-crowd-sale,357422183.9084125
+Convex Finance,cvx,convex-finance,340442698.5511562
+Nexus Mutual,nxm,nxm,338271358.7703056
+Ethereum Name Service,ens,ethereum-name-service,320201851.50405014
+Gemini Dollar,gusd,gemini-dollar,318761327.75359976
+Compound,comp,compound-governance-token,317806107.5114809
+Olympus,ohm,olympus,300745009.03483087
+Serum,srm,serum,291828973.29258657
+Ankr Network,ankr,ankr,290243158.0057661
+IoTeX,iotx,iotex,285486884.4943404
+yearn.finance,yfi,yearn-finance,285255389.22788274
+Livepeer,lpt,livepeer,264487674.71924964
+Reserve Rights,rsr,reserve-rights-token,263468949.64816037
+Balancer,bal,balancer,255252540.0243954
+0x Protocol,zrx,0x,252932706.04278734
+OMG Network,omg,omisego,251914190.62918136
+Golem,glm,golem,247020025.3027616
+Synapse,syn,synapse-2,230759356.0033019
+Audius,audio,audius,230525302.21951655
+Escoin,elg,escoin-token,228752259.23020595
+Magic Internet Money (Ethereum),mim,magic-internet-money,223959991.97359484
+WAX,waxp,wax,212381554.59618372
+Euro Tether,eurt,tether-eurt,206639304.0354749
+Moonchain,mxc,mxc,200938565.25168145
+Sushi,sushi,sushi,199451095.1717617
+Merit Circle,mc,merit-circle,197406457.16283622
+Immutable,imx,immutable-x,194981269.38826102
+Baby Doge Coin,babydoge,baby-doge-coin,191637582.30357146
+DAO Maker,dao,dao-maker,188518485.54208136
+UMA,uma,uma,187474019.684282
+dYdX,ethdydx,dydx,183943671.71429697
+Liquity USD,lusd,liquity-usd,183773504.10693648
+Solar,sxp,swipe,183645714.24545452
+Coinmetro,xcm,coinmetro,182082920.49269098
+SKALE,skl,skale,177940925.4854713
+Alchemix USD,alusd,alchemix-usd,177660262.68779507
+Kyber Network Crystal,knc,kyber-network-crystal,176580295.94570583

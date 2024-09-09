@@ -1,0 +1,101 @@
+name,symbol,id,market_cap
+Ethereum,eth,ethereum,235235428449.11987
+Tether,usdt,tether,72483593605.70987
+BNB,bnb,binancecoin,54115193868.88741
+USDC,usdc,usd-coin,54003654728.7661
+BUSD,busd,binance-usd,18188587186.920597
+Wrapped Bitcoin,wbtc,wrapped-bitcoin,8710520923.546848
+Lido Staked Ether,steth,staked-ether,8041422929.290812
+Shiba Inu,shib,shiba-inu,6480679098.893814
+Dai,dai,dai,6357389265.535546
+LEO Token,leo,leo-token,4980990708.717545
+Cronos,cro,crypto-com-chain,4801636647.482402
+Polygon,matic,matic-network,4554325282.525717
+NEAR Protocol,near,near,4203911234.647025
+Chainlink,link,chainlink,3575706587.1951747
+OKB,okb,okb,3184810561.07983
+Onyxcoin,xcn,chain-2,2944492593.4279885
+Uniswap,uni,uniswap,2608012124.7952547
+ApeCoin,ape,apecoin,1994127556.787874
+Axie Infinity,axs,axie-infinity,1918753572.029531
+The Sandbox,sand,the-sandbox,1802766307.0133986
+Decentraland,mana,decentraland,1631165790.9697487
+Aave,aave,aave,1586953303.5188034
+cETH,ceth,compound-ether,1470776639.9272087
+Frax,frax,frax,1426963789.0215685
+TrueUSD,tusd,true-usd,1258163107.8779135
+Huobi BTC,hbtc,huobi-btc,1240708957.7643666
+DeFiChain,dfi,defichain,1211663067.2603734
+Maker,mkr,maker,1189306158.0179434
+cUSDC,cusdc,compound-usd-coin,1172888220.729822
+The Graph,grt,the-graph,1131982397.4539816
+Huobi,ht,huobi-token,1111545411.247289
+BitTorrent,btt,bittorrent,1055993367.3959602
+Fantom,ftm,fantom,1033001240.2842313
+Quant,qnt,quant-network,962753044.4093719
+Pax Dollar,usdp,paxos-standard,956354181.3496419
+Waves,waves,waves,903097509.2583393
+Gate,gt,gatechain-token,858226867.4609522
+Zilliqa,zil,zilliqa,794709038.6535155
+PancakeSwap,cake,pancakeswap-token,775038702.7998451
+cDAI,cdai,cdai,726728012.2076259
+NEXO,nexo,nexo,723594378.7943904
+GMT,gmt,stepn,713875857.6126336
+Loopring,lrc,loopring,709346486.5483712
+Synthetix Network,snx,havven,686980647.7052628
+Chiliz,chz,chiliz,656347835.6827638
+Enjin Coin,enj,enjincoin,654805286.6787459
+Evmos,evmos,evmos,645850324.9716834
+Convex Finance,cvx,convex-finance,643396549.366006
+GALA,gala,gala,630174818.7391249
+PAX Gold,paxg,pax-gold,613271728.90105
+Basic Attention,bat,basic-attention-token,603222063.0386262
+USDD,usdd,usdd,602830056.8585476
+Amp,amp,amp-token,602412766.3898766
+Curve DAO,crv,curve-dao-token,546257805.8925745
+Fei USD,fei,fei-usd,538560322.1334059
+Gnosis,gno,gnosis,529673795.47285783
+Holo,hot,holotoken,528745648.6346305
+XDC Network,xdc,xdce-crowd-sale,507130036.9991514
+FLEX Coin,flex,flex-coin,503563748.19004774
+Tether Gold,xaut,tether-gold,457345020.9963247
+Frax Share,fxs,frax-share,453521197.91836804
+Compound,comp,compound-governance-token,437707812.87197834
+Nexus Mutual,nxm,nxm,431929274.10679805
+Tokenize Xchange,tkx,tokenize-xchange,426028834.4262803
+ECOMI,omi,ecomi,416632408.634745
+Lido DAO,ldo,lido-dao,412936947.7018055
+1inch,1inch,1inch,403195908.79224837
+Olympus,ohm,olympus,399631126.21021223
+OMG Network,omg,omisego,388678989.28169936
+Magic Internet Money (Ethereum),mim,magic-internet-money,386602810.55037016
+IoTeX,iotx,iotex,380692474.8475188
+Serum,srm,serum,380448606.31266075
+Sushi,sushi,sushi,361478427.7150246
+0x Protocol,zrx,0x,357281718.9742555
+Celsius Network,cel,celsius-degree-token,352538708.1249427
+Audius,audio,audius,335824404.55230236
+Bancor Network,bnt,bancor,334608055.7688763
+Livepeer,lpt,livepeer,329797896.740754
+Liquity USD,lusd,liquity-usd,328127636.39048785
+Ankr Network,ankr,ankr,318742941.58075166
+Baby Doge Coin,babydoge,baby-doge-coin,313460079.4387039
+Xido Finance,xido,xido-finance,307571116.43171954
+Gemini Dollar,gusd,gemini-dollar,300496814.71925706
+Rocket Pool,rpl,rocket-pool,299545299.9011162
+Ethereum Name Service,ens,ethereum-name-service,298960344.5726303
+VGX Token,vgx,ethos,298700951.0801639
+Everscale,ever,everscale,286710736.8125943
+SwissBorg,borg,swissborg,278424803.26322013
+Golem,glm,golem,277046766.2380755
+Dogelon Mars,elon,dogelon-mars,270193315.30152434
+Immutable,imx,immutable-x,262711189.4079698
+yearn.finance,yfi,yearn-finance,256133485.76606098
+WAX,waxp,wax,254626408.15789375
+Solar,sxp,swipe,252346501.79043472
+SKALE,skl,skale,252118568.74675348
+Synapse,syn,synapse-2,247795949.3051502
+Escoin,elg,escoin-token,228752259.23020595
+Smooth Love Potion,slp,smooth-love-potion,228567975.1378182
+Kyber Network Crystal,knc,kyber-network-crystal,224458465.5003062
+Euro Tether,eurt,tether-eurt,221778860.53310996

@@ -1,0 +1,101 @@
+name,symbol,id,market_cap
+Ethereum,eth,ethereum,274484617898.52283
+Tether,usdt,tether,96142607456.75385
+BNB,bnb,binancecoin,46192055347.44985
+USDC,usdc,usd-coin,26818570042.819622
+Lido Staked Ether,steth,staked-ether,21485566117.659714
+Chainlink,link,chainlink,8764421759.034433
+Polygon,matic,matic-network,7296602559.932046
+Toncoin,ton,the-open-network,7145954799.702935
+Wrapped Bitcoin,wbtc,wrapped-bitcoin,6708115862.208347
+Shiba Inu,shib,shiba-inu,5271552125.741216
+Dai,dai,dai,4887027498.58747
+Uniswap,uni,uniswap,4523219604.190334
+LEO Token,leo,leo-token,3680676076.178911
+Injective,inj,injective-protocol,2996898068.538631
+OKB,okb,okb,2962581291.582069
+NEAR Protocol,near,near,2907005500.921479
+Immutable,imx,immutable-x,2624719996.979233
+First Digital USD,fdusd,first-digital-usd,2576305738.5426903
+Lido DAO,ldo,lido-dao,2517360496.1465344
+Arbitrum,arb,arbitrum,2250110216.266293
+Cronos,cro,crypto-com-chain,2162477193.741528
+Mantle,mnt,mantle,1852289292.564052
+Maker,mkr,maker,1809813945.9905877
+Render,render,render-token,1628980418.330231
+Quant,qnt,quant-network,1491922015.6257775
+TrueUSD,tusd,true-usd,1469203911.0500488
+The Graph,grt,the-graph,1454118116.8113315
+Rocket Pool ETH,reth,rocket-pool-eth,1399924158.506134
+Starknet,strk,starknet,1398712548.090617
+Aave,aave,aave,1266611498.7899306
+Tokenize Xchange,tkx,tokenize-xchange,1097563993.085112
+Synthetix Network,snx,havven,1002362251.1025208
+Fantom,ftm,fantom,992480211.631334
+Astar,astr,astar,980422992.5999765
+The Sandbox,sand,the-sandbox,977235691.3851728
+Axie Infinity,axs,axie-infinity,952289092.2043954
+WhiteBIT Coin,wbt,whitebit,926940083.797744
+Chiliz,chz,chiliz,889057046.8210027
+Beam,beam,beam-2,874978042.2438158
+ApeCoin,ape,apecoin,844471037.312286
+Bitget Token,bgb,bitget-token,834672094.0181512
+dYdX,ethdydx,dydx,828494947.6564907
+Decentraland,mana,decentraland,797473063.3877687
+BitTorrent,btt,bittorrent,785153460.1433469
+Blur,blur,blur,774567625.6539665
+Frax Share,fxs,frax-share,740919299.4412664
+USDD,usdd,usdd,720148910.9008118
+GALA,gala,gala,708999027.5705192
+Frax Ether,frxeth,frax-ether,708085138.8546225
+Bonk,bonk,bonk,651332541.4367063
+Frax,frax,frax,646680391.6777626
+Gate,gt,gatechain-token,639399275.6748531
+WOO,woo,woo-network,629076507.6965547
+PancakeSwap,cake,pancakeswap-token,615450343.9462173
+XDC Network,xdc,xdce-crowd-sale,604006490.0131961
+Artificial Superintelligence Alliance,fet,fetch-ai,592664363.5092188
+Rocket Pool,rpl,rocket-pool,575081810.47431
+Gnosis,gno,gnosis,555106779.1549431
+Ethereum Name Service,ens,ethereum-name-service,549308142.1596652
+Staked Frax Ether,sfrxeth,staked-frax-ether,512332895.703422
+CorgiAI,corgiai,corgiai,505053270.66358715
+Axelar,axl,axelar,503572169.7710322
+Tether Gold,xaut,tether-gold,503003611.1806788
+Curve DAO,crv,curve-dao-token,495444341.25231254
+NEXO,nexo,nexo,489828983.6106334
+Huobi BTC,hbtc,huobi-btc,472801693.62599677
+Illuvium,ilv,illuvium,457775717.1962821
+Coinbase Wrapped Staked ETH,cbeth,coinbase-wrapped-staked-eth,455648508.3702014
+Fasttoken,ftn,fasttoken,452670156.5736995
+Huobi,ht,huobi-token,448911597.7756343
+1inch,1inch,1inch,446817521.2871186
+Swell Ethereum,sweth,sweth,437073131.7080079
+Pixels,pixel,pixels,433264770.65242946
+cWBTC,cwbtc,compound-wrapped-btc,430642309.88418156
+cETH,ceth,compound-ether,426434242.28636116
+Metis,metis,metis-token,423097796.6565466
+GMT,gmt,stepn,420438493.6283565
+PAX Gold,paxg,pax-gold,419542757.5348087
+Rollbit Coin,rlb,rollbit-coin,399885782.4410736
+Portal,portal,portal-2,395957845.720593
+AltLayer,alt,altlayer,392149300.41304874
+aelf,elf,aelf,391676405.6519614
+Ribbon Finance,rbn,ribbon-finance,390495578.1934816
+Enjin Coin,enj,enjincoin,389912960.4353523
+ZetaChain,zeta,zetachain,385946344.202605
+IoTeX,iotx,iotex,385384016.8332474
+Pepe,pepe,pepe,384974737.80213946
+Kujira,kuji,kujira,378839031.8118942
+SKALE,skl,skale,371663363.79446167
+Compound,comp,compound-governance-token,371363587.4853138
+Pax Dollar,usdp,paxos-standard,352871009.86885005
+Zilliqa,zil,zilliqa,351737402.3476642
+UMA,uma,uma,342376770.64140576
+Holo,hot,holotoken,330700801.75429803
+SingularityNET,agix,singularitynet,330384544.68379515
+Basic Attention,bat,basic-attention-token,325451724.234391
+Mask Network,mask,mask-network,318893725.7590216
+Ondo,ondo,ondo-finance,312184868.1468218
+Magic,magic,magic,310360859.13286513
+PayPal USD,pyusd,paypal-usd,301070049.51668257

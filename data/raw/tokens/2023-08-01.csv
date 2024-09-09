@@ -1,0 +1,101 @@
+name,symbol,id,market_cap
+Ethereum,eth,ethereum,223177200443.95282
+Tether,usdt,tether,83791388839.53244
+BNB,bnb,binancecoin,37107293025.991974
+USDC,usdc,usd-coin,26489110610.04625
+Lido Staked Ether,steth,staked-ether,14758278423.256407
+Polygon,matic,matic-network,6418228698.293611
+Shiba Inu,shib,shiba-inu,4993874733.522391
+Uniswap,uni,uniswap,4939848563.359335
+Wrapped Bitcoin,wbtc,wrapped-bitcoin,4727898848.040969
+Dai,dai,dai,4167281695.9606514
+Toncoin,ton,the-open-network,4112941104.182569
+Chainlink,link,chainlink,4062595801.001551
+LEO Token,leo,leo-token,3687678090.051493
+BUSD,busd,binance-usd,3668239670.118111
+TrueUSD,tusd,true-usd,3016033931.8718
+OKB,okb,okb,2553800327.2791524
+Mantle,mnt,mantle,1676438288.5230536
+Lido DAO,ldo,lido-dao,1625127718.4945252
+Quant,qnt,quant-network,1587816502.709284
+Cronos,cro,crypto-com-chain,1535972156.0076299
+Arbitrum,arb,arbitrum,1492314259.6271362
+NEAR Protocol,near,near,1291122446.189238
+Maker,mkr,maker,1106215558.3170803
+The Graph,grt,the-graph,1005981534.9487216
+Rocket Pool ETH,reth,rocket-pool-eth,964901761.1886692
+Aave,aave,aave,947539910.990304
+XDC Network,xdc,xdce-crowd-sale,830351201.7950836
+Synthetix Network,snx,havven,825381648.7980517
+Immutable,imx,immutable-x,824101578.8772633
+The Sandbox,sand,the-sandbox,819943568.6784785
+Frax,frax,frax,811396601.2616975
+WhiteBIT Coin,wbt,whitebit,798792705.9676749
+Axie Infinity,axs,axie-infinity,786508942.1533356
+USDD,usdd,usdd,741349120.6958257
+Decentraland,mana,decentraland,704390040.7957859
+ApeCoin,ape,apecoin,685457780.2127113
+Injective,inj,injective-protocol,660165364.2250745
+Fantom,ftm,fantom,658163007.5472733
+Render,render,render-token,647320739.0561125
+Bitget Token,bgb,bitget-token,647288332.7071699
+GALA,gala,gala,574568560.7466342
+Gate,gt,gatechain-token,574206278.9652904
+Rocket Pool,rpl,rocket-pool,571593071.4728849
+Pax Dollar,usdp,paxos-standard,549647984.354809
+Chiliz,chz,chiliz,539041904.4708892
+Pepe,pepe,pepe,519430041.09763145
+Curve DAO,crv,curve-dao-token,508074733.5659586
+PAX Gold,paxg,pax-gold,484764055.95091885
+Tether Gold,xaut,tether-gold,484251614.86008286
+cETH,ceth,compound-ether,473259433.8826252
+Tokenize Xchange,tkx,tokenize-xchange,461259594.93252176
+FLEX Coin,flex,flex-coin,456835559.5591384
+Compound,comp,compound-governance-token,454198824.8531199
+Frax Ether,frxeth,frax-ether,452074642.5092334
+BitTorrent,btt,bittorrent,441142344.45777106
+Huobi,ht,huobi-token,431510219.98172367
+Frax Share,fxs,frax-share,406514178.17390025
+NEXO,nexo,nexo,364570491.35456
+dYdX,ethdydx,dydx,363761522.12835556
+Gemini Dollar,gusd,gemini-dollar,361328233.41569537
+Nexus Mutual,nxm,nxm,355258244.03321636
+Bone ShibaSwap,bone,bone-shibaswap,354752886.36608917
+Zilliqa,zil,zilliqa,350631127.4053095
+WOO,woo,woo-network,345643183.6674308
+cUSDC,cusdc,compound-usd-coin,337032024.48295254
+PancakeSwap,cake,pancakeswap-token,330216278.4928475
+1inch,1inch,1inch,323423640.0219783
+Basic Attention,bat,basic-attention-token,306161941.5522098
+Staked Frax Ether,sfrxeth,staked-frax-ether,299192766.4624523
+Liquity USD,lusd,liquity-usd,298520635.20890176
+Gnosis,gno,gnosis,297180840.02317095
+Enjin Coin,enj,enjincoin,296962661.1067814
+Mask Network,mask,mask-network,287685468.342778
+SingularityNET,agix,singularitynet,273909339.8976471
+MX,mx,mx-token,273104170.7441847
+cDAI,cdai,cdai,271060398.0719594
+Loopring,lrc,loopring,269541132.769747
+Worldcoin,wld,worldcoin-wld,265981030.1820794
+Huobi BTC,hbtc,huobi-btc,263344464.98614734
+Convex Finance,cvx,convex-finance,255176605.7585955
+Ethereum Name Service,ens,ethereum-name-service,246755200.7738058
+Blur,blur,blur,244141100.04441905
+Astar,astr,astar,242812932.2820212
+Rollbit Coin,rlb,rollbit-coin,230109444.70948416
+Illuvium,ilv,illuvium,229204133.6901753
+Escoin,elg,escoin-token,228752259.23020595
+DeFiChain,dfi,defichain,227990060.73102903
+Euro Tether,eurt,tether-eurt,226330594.88357434
+Holo,hot,holotoken,225898426.02816647
+yearn.finance,yfi,yearn-finance,221865952.32541397
+FLOKI,floki,floki,219717539.92234838
+Artificial Superintelligence Alliance,fet,fetch-ai,217042238.6172456
+GMT,gmt,stepn,213655604.40021425
+Ankr Network,ankr,ankr,208260148.34047204
+Golem,glm,golem,205344235.4272994
+tomiNet,tomi,tominet,205258728.22588575
+Solar,sxp,swipe,198128893.6380805
+Audius,audio,audius,194322855.63811573
+Baby Doge Coin,babydoge,baby-doge-coin,193460832.7226341
+Waves,waves,waves,193147364.1326731

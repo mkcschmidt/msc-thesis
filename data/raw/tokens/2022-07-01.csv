@@ -1,0 +1,101 @@
+name,symbol,id,market_cap
+Ethereum,eth,ethereum,125647331913.1351
+Tether,usdt,tether,66360128640.29797
+USDC,usdc,usd-coin,56159787682.472305
+BNB,bnb,binancecoin,35182367551.57291
+BUSD,busd,binance-usd,17687106283.381725
+Dai,dai,dai,6337228110.9714575
+Shiba Inu,shib,shiba-inu,5967996834.393285
+LEO Token,leo,leo-token,5416276064.619447
+Wrapped Bitcoin,wbtc,wrapped-bitcoin,5079371445.359641
+Lido Staked Ether,steth,staked-ether,4211619844.6465187
+Polygon,matic,matic-network,3689260349.77257
+OKB,okb,okb,3103048157.636417
+Chainlink,link,chainlink,2877469491.3000903
+Cronos,cro,crypto-com-chain,2844915549.889366
+NEAR Protocol,near,near,2386905128.7378354
+Uniswap,uni,uniswap,2215983426.153656
+Onyxcoin,xcn,chain-2,1847628874.4910161
+The Sandbox,sand,the-sandbox,1415262695.2201815
+ApeCoin,ape,apecoin,1379135317.2610333
+Frax,frax,frax,1360659195.8347924
+Decentraland,mana,decentraland,1305151626.7654307
+TrueUSD,tusd,true-usd,1208762460.3457665
+Axie Infinity,axs,axie-infinity,1181096634.969239
+cUSDC,cusdc,compound-usd-coin,876211695.6224409
+Pax Dollar,usdp,paxos-standard,859769384.181169
+Maker,mkr,maker,778545317.7300816
+Aave,aave,aave,774098461.5624694
+BitTorrent,btt,bittorrent,748789976.0667112
+Huobi BTC,hbtc,huobi-btc,743307361.0174208
+Huobi,ht,huobi-token,742034601.8453166
+USDD,usdd,usdd,722649976.0375197
+The Graph,grt,the-graph,693508749.0652589
+Quant,qnt,quant-network,690598900.8080709
+cETH,ceth,compound-ether,666753350.2502601
+Fantom,ftm,fantom,621349558.7397264
+PAX Gold,paxg,pax-gold,609125935.5730832
+Gate,gt,gatechain-token,603123975.0150121
+Basic Attention,bat,basic-attention-token,579193875.5142535
+cDAI,cdai,cdai,564305907.7000846
+Zilliqa,zil,zilliqa,550611459.1295999
+Chiliz,chz,chiliz,511017966.96230155
+Synthetix Network,snx,havven,505686742.58669263
+Waves,waves,waves,498608011.1237435
+GMT,gmt,stepn,496469063.41573495
+DeFiChain,dfi,defichain,485070710.8274068
+Amp,amp,amp-token,478131626.5594993
+Loopring,lrc,loopring,468375384.3927292
+Enjin Coin,enj,enjincoin,461478507.10515153
+Tether Gold,xaut,tether-gold,457114532.86967725
+PancakeSwap,cake,pancakeswap-token,429339561.4357511
+GALA,gala,gala,404412298.6096385
+Evmos,evmos,evmos,393495884.4383584
+1inch,1inch,1inch,377518309.3893459
+ECOMI,omi,ecomi,372166001.02029586
+Holo,hot,holotoken,368516289.75915337
+Fei USD,fei,fei-usd,358945468.68405944
+Frax Share,fxs,frax-share,340032121.7456312
+Serum,srm,serum,327287170.97253394
+XDC Network,xdc,xdce-crowd-sale,321934323.10256475
+NEXO,nexo,nexo,319559615.20558375
+Compound,comp,compound-governance-token,312976806.9403946
+Olympus,ohm,olympus,279372379.6314202
+Convex Finance,cvx,convex-finance,279186644.6491545
+Baby Doge Coin,babydoge,baby-doge-coin,278248928.7782558
+0x Protocol,zrx,0x,276980343.44209886
+Gnosis,gno,gnosis,274183918.2695185
+Celsius Network,cel,celsius-degree-token,266108193.36065936
+Curve DAO,crv,curve-dao-token,262457330.1481724
+Tokenize Xchange,tkx,tokenize-xchange,260232736.8367973
+OMG Network,omg,omisego,252504322.4436143
+Audius,audio,audius,248337436.15547258
+Xido Finance,xido,xido-finance,241522125.87486106
+Immutable,imx,immutable-x,238442775.7410637
+Livepeer,lpt,livepeer,237375317.74607587
+PlayDapp,pda,playdapp,230793142.46927038
+IoTeX,iotx,iotex,230631800.48382804
+Escoin,elg,escoin-token,228752259.23020595
+Golem,glm,golem,227788207.0731459
+Nexus Mutual,nxm,nxm,226602173.00047714
+Ankr Network,ankr,ankr,221779803.8104235
+Ethereum Name Service,ens,ethereum-name-service,216778676.15486097
+Euro Tether,eurt,tether-eurt,214374110.5942841
+Moonchain,mxc,mxc,202501558.3839242
+Lido DAO,ldo,lido-dao,201848447.4432473
+WAX,waxp,wax,196422054.24014252
+Magic Internet Money (Ethereum),mim,magic-internet-money,193482507.06873056
+Coinmetro,xcm,coinmetro,189817525.77045923
+Solar,sxp,swipe,186705657.9798668
+Sushi,sushi,sushi,184180671.46904805
+SwissBorg,borg,swissborg,184057759.55577108
+Alchemix USD,alusd,alchemix-usd,183943298.040748
+Gemini Dollar,gusd,gemini-dollar,177894159.86243853
+Dogelon Mars,elon,dogelon-mars,176987172.4888951
+CEEK Smart VR,ceek,ceek,174227875.24814042
+WOO,woo,woo-network,172624037.41972187
+Astar,astr,astar,170388106.32076573
+Polymath,poly,polymath,167030776.7060142
+yearn.finance,yfi,yearn-finance,165524389.42106226
+UMA,uma,uma,164891566.6386542
+SKALE,skl,skale,164368864.02398464

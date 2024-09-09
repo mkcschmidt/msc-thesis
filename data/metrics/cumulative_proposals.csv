@@ -1,0 +1,1432 @@
+id,name,date,cumulative_proposals
+aave,Aave,2020-09-14,1
+aave,Aave,2021-06-24,2
+aave,Aave,2021-07-16,3
+aave,Aave,2021-07-17,4
+aave,Aave,2021-07-23,5
+aave,Aave,2021-07-24,6
+aave,Aave,2021-07-25,7
+aave,Aave,2021-07-29,9
+aave,Aave,2021-08-01,10
+aave,Aave,2021-08-02,12
+aave,Aave,2021-08-03,13
+aave,Aave,2021-08-13,14
+aave,Aave,2021-08-15,15
+aave,Aave,2021-08-19,16
+aave,Aave,2021-08-20,18
+aave,Aave,2021-08-27,19
+aave,Aave,2021-08-30,20
+aave,Aave,2021-08-31,21
+aave,Aave,2021-09-04,22
+aave,Aave,2021-09-06,23
+aave,Aave,2021-09-17,24
+aave,Aave,2021-09-18,25
+aave,Aave,2021-09-19,26
+aave,Aave,2021-09-22,27
+aave,Aave,2021-09-28,29
+aave,Aave,2021-10-02,30
+aave,Aave,2021-10-04,31
+aave,Aave,2021-10-07,32
+aave,Aave,2021-10-08,33
+aave,Aave,2021-10-11,34
+aave,Aave,2021-10-16,35
+aave,Aave,2021-10-18,36
+aave,Aave,2021-10-21,39
+aave,Aave,2021-10-25,40
+aave,Aave,2021-10-31,42
+aave,Aave,2021-11-06,44
+aave,Aave,2021-11-08,45
+aave,Aave,2021-11-11,46
+aave,Aave,2021-11-12,47
+aave,Aave,2021-11-18,48
+aave,Aave,2021-11-19,50
+aave,Aave,2021-11-20,51
+aave,Aave,2021-11-21,53
+aave,Aave,2021-11-23,54
+aave,Aave,2021-11-24,55
+aave,Aave,2021-11-28,56
+aave,Aave,2021-11-30,58
+aave,Aave,2021-12-06,59
+aave,Aave,2021-12-09,60
+aave,Aave,2021-12-13,61
+aave,Aave,2021-12-18,62
+aave,Aave,2021-12-20,63
+aave,Aave,2021-12-21,64
+aave,Aave,2022-01-06,65
+aave,Aave,2022-01-13,66
+aave,Aave,2022-01-18,68
+aave,Aave,2022-01-19,69
+aave,Aave,2022-01-23,70
+aave,Aave,2022-01-24,71
+aave,Aave,2022-01-25,72
+aave,Aave,2022-01-26,73
+aave,Aave,2022-01-31,74
+aave,Aave,2022-02-03,75
+aave,Aave,2022-02-04,77
+aave,Aave,2022-02-06,78
+aave,Aave,2022-02-07,79
+aave,Aave,2022-02-08,80
+aave,Aave,2022-02-09,81
+aave,Aave,2022-02-10,83
+aave,Aave,2022-02-11,85
+aave,Aave,2022-02-12,86
+aave,Aave,2022-02-16,87
+aave,Aave,2022-02-18,88
+aave,Aave,2022-02-22,89
+aave,Aave,2022-02-23,90
+aave,Aave,2022-02-24,91
+aave,Aave,2022-02-28,92
+aave,Aave,2022-03-02,94
+aave,Aave,2022-03-09,95
+aave,Aave,2022-03-10,96
+aave,Aave,2022-03-23,97
+aave,Aave,2022-04-01,98
+aave,Aave,2022-04-06,99
+aave,Aave,2022-04-07,100
+aave,Aave,2022-04-11,101
+aave,Aave,2022-04-13,103
+aave,Aave,2022-04-17,104
+aave,Aave,2022-04-27,105
+aave,Aave,2022-04-30,106
+aave,Aave,2022-05-02,107
+aave,Aave,2022-05-07,108
+aave,Aave,2022-05-08,109
+aave,Aave,2022-05-11,112
+aave,Aave,2022-05-12,113
+aave,Aave,2022-05-25,114
+aave,Aave,2022-06-01,115
+aave,Aave,2022-06-05,117
+aave,Aave,2022-06-08,118
+aave,Aave,2022-06-10,119
+aave,Aave,2022-06-11,120
+aave,Aave,2022-06-19,121
+aave,Aave,2022-06-30,122
+aave,Aave,2022-07-10,125
+aave,Aave,2022-07-11,126
+aave,Aave,2022-07-14,127
+aave,Aave,2022-07-16,128
+aave,Aave,2022-07-18,129
+aave,Aave,2022-07-27,131
+aave,Aave,2022-07-30,133
+aave,Aave,2022-07-31,137
+aave,Aave,2022-08-07,138
+aave,Aave,2022-08-09,139
+aave,Aave,2022-08-11,141
+aave,Aave,2022-08-12,142
+aave,Aave,2022-08-14,143
+aave,Aave,2022-08-20,144
+aave,Aave,2022-08-21,145
+aave,Aave,2022-08-23,146
+aave,Aave,2022-08-24,147
+aave,Aave,2022-08-26,148
+aave,Aave,2022-08-29,150
+aave,Aave,2022-09-01,151
+aave,Aave,2022-09-02,152
+aave,Aave,2022-09-03,153
+aave,Aave,2022-09-04,154
+aave,Aave,2022-09-16,155
+aave,Aave,2022-09-23,157
+aave,Aave,2022-09-27,159
+aave,Aave,2022-09-28,160
+aave,Aave,2022-09-30,161
+aave,Aave,2022-10-02,162
+aave,Aave,2022-10-09,163
+aave,Aave,2022-10-11,165
+aave,Aave,2022-10-27,166
+aave,Aave,2022-10-28,168
+aave,Aave,2022-10-31,169
+aave,Aave,2022-11-02,170
+aave,Aave,2022-11-03,171
+aave,Aave,2022-11-05,172
+aave,Aave,2022-11-10,173
+aave,Aave,2022-11-21,175
+aave,Aave,2022-11-22,176
+aave,Aave,2022-11-23,178
+aave,Aave,2022-11-25,181
+aave,Aave,2022-11-26,182
+aave,Aave,2022-11-28,183
+aave,Aave,2022-11-29,185
+aave,Aave,2022-12-08,186
+aave,Aave,2022-12-09,187
+aave,Aave,2022-12-10,189
+aave,Aave,2022-12-12,190
+aave,Aave,2022-12-16,193
+aave,Aave,2022-12-17,194
+aave,Aave,2022-12-19,196
+aave,Aave,2022-12-22,197
+aave,Aave,2022-12-23,199
+aave,Aave,2022-12-24,200
+aave,Aave,2023-01-02,201
+aave,Aave,2023-01-09,202
+aave,Aave,2023-01-12,203
+aave,Aave,2023-01-14,204
+aave,Aave,2023-01-15,205
+aave,Aave,2023-01-20,206
+aave,Aave,2023-01-22,207
+aave,Aave,2023-01-28,208
+aave,Aave,2023-02-02,209
+aave,Aave,2023-02-03,211
+aave,Aave,2023-02-06,212
+aave,Aave,2023-02-07,213
+aave,Aave,2023-02-09,215
+aave,Aave,2023-02-10,216
+aave,Aave,2023-02-13,218
+aave,Aave,2023-02-14,219
+aave,Aave,2023-02-18,222
+aave,Aave,2023-02-19,223
+aave,Aave,2023-02-20,224
+aave,Aave,2023-02-21,227
+aave,Aave,2023-02-23,228
+aave,Aave,2023-02-24,229
+aave,Aave,2023-02-25,230
+aave,Aave,2023-02-26,232
+aave,Aave,2023-02-27,234
+aave,Aave,2023-03-01,235
+aave,Aave,2023-03-03,237
+aave,Aave,2023-03-05,239
+aave,Aave,2023-03-09,240
+aave,Aave,2023-03-10,242
+aave,Aave,2023-03-11,243
+aave,Aave,2023-03-13,248
+aave,Aave,2023-03-14,252
+aave,Aave,2023-03-16,254
+aave,Aave,2023-03-19,255
+aave,Aave,2023-03-20,256
+aave,Aave,2023-03-22,257
+aave,Aave,2023-03-23,258
+aave,Aave,2023-03-26,259
+aave,Aave,2023-03-28,261
+aave,Aave,2023-03-29,263
+aave,Aave,2023-03-30,267
+aave,Aave,2023-03-31,271
+aave,Aave,2023-04-01,272
+aave,Aave,2023-04-03,274
+aave,Aave,2023-04-05,275
+aave,Aave,2023-04-07,276
+aave,Aave,2023-04-08,277
+aave,Aave,2023-04-10,279
+aave,Aave,2023-04-12,280
+aave,Aave,2023-04-15,282
+aave,Aave,2023-04-16,283
+aave,Aave,2023-04-17,284
+aave,Aave,2023-04-18,285
+aave,Aave,2023-04-24,288
+aave,Aave,2023-04-28,289
+aave,Aave,2023-04-30,291
+aave,Aave,2023-05-01,294
+aave,Aave,2023-05-03,295
+aave,Aave,2023-05-05,298
+aave,Aave,2023-05-07,300
+aave,Aave,2023-05-09,301
+aave,Aave,2023-05-12,303
+aave,Aave,2023-05-13,305
+aave,Aave,2023-05-17,306
+aave,Aave,2023-05-19,314
+aave,Aave,2023-05-20,316
+aave,Aave,2023-05-23,317
+aave,Aave,2023-05-24,318
+aave,Aave,2023-05-25,320
+aave,Aave,2023-05-28,321
+aave,Aave,2023-06-01,326
+aave,Aave,2023-06-03,327
+aave,Aave,2023-06-05,328
+aave,Aave,2023-06-08,329
+aave,Aave,2023-06-09,330
+aave,Aave,2023-06-10,331
+aave,Aave,2023-06-11,333
+aave,Aave,2023-06-15,334
+aave,Aave,2023-06-16,335
+aave,Aave,2023-06-17,339
+aave,Aave,2023-06-22,341
+aave,Aave,2023-06-23,342
+aave,Aave,2023-06-25,343
+aave,Aave,2023-06-27,344
+aave,Aave,2023-06-30,348
+aave,Aave,2023-07-01,349
+aave,Aave,2023-07-02,354
+aave,Aave,2023-07-06,355
+aave,Aave,2023-07-07,356
+aave,Aave,2023-07-08,358
+aave,Aave,2023-07-09,361
+aave,Aave,2023-07-14,364
+aave,Aave,2023-07-15,365
+aave,Aave,2023-07-16,367
+aave,Aave,2023-07-20,368
+aave,Aave,2023-07-23,369
+aave,Aave,2023-07-28,373
+aave,Aave,2023-07-30,375
+aave,Aave,2023-07-31,376
+aave,Aave,2023-08-03,379
+aave,Aave,2023-08-10,380
+aave,Aave,2023-08-11,381
+aave,Aave,2023-08-17,382
+aave,Aave,2023-08-18,386
+aave,Aave,2023-08-19,387
+aave,Aave,2023-08-20,388
+aave,Aave,2023-08-25,390
+aave,Aave,2023-08-26,392
+aave,Aave,2023-09-01,394
+aave,Aave,2023-09-02,395
+aave,Aave,2023-09-03,397
+aave,Aave,2023-09-07,402
+aave,Aave,2023-09-11,403
+aave,Aave,2023-09-15,404
+aave,Aave,2023-09-16,408
+aave,Aave,2023-09-17,409
+aave,Aave,2023-09-19,412
+aave,Aave,2023-09-21,415
+aave,Aave,2023-09-22,416
+aave,Aave,2023-09-25,419
+aave,Aave,2023-09-26,421
+aave,Aave,2023-09-27,422
+aave,Aave,2023-09-29,426
+aave,Aave,2023-09-30,427
+aave,Aave,2023-10-03,428
+aave,Aave,2023-10-04,429
+aave,Aave,2023-10-06,431
+aave,Aave,2023-10-08,432
+aave,Aave,2023-10-10,433
+aave,Aave,2023-10-14,435
+aave,Aave,2023-10-15,436
+aave,Aave,2023-10-16,437
+aave,Aave,2023-10-19,439
+aave,Aave,2023-10-20,442
+aave,Aave,2023-10-23,445
+aave,Aave,2023-10-26,446
+aave,Aave,2023-11-03,448
+aave,Aave,2023-11-05,449
+aave,Aave,2023-11-06,450
+aave,Aave,2023-11-08,451
+aave,Aave,2023-11-10,453
+aave,Aave,2023-11-11,460
+aave,Aave,2023-11-12,461
+aave,Aave,2023-11-14,462
+aave,Aave,2023-11-17,465
+aave,Aave,2023-11-18,466
+aave,Aave,2023-11-20,467
+aave,Aave,2023-11-21,468
+aave,Aave,2023-11-24,472
+aave,Aave,2023-12-01,479
+aave,Aave,2023-12-03,480
+aave,Aave,2023-12-06,481
+aave,Aave,2023-12-08,482
+aave,Aave,2023-12-09,483
+aave,Aave,2023-12-10,485
+aave,Aave,2023-12-11,486
+aave,Aave,2023-12-12,488
+aave,Aave,2023-12-14,489
+aave,Aave,2023-12-17,490
+aave,Aave,2023-12-22,492
+aave,Aave,2024-01-07,493
+aave,Aave,2024-01-11,496
+aave,Aave,2024-01-12,497
+aave,Aave,2024-01-13,499
+aave,Aave,2024-01-14,500
+aave,Aave,2024-01-16,503
+aave,Aave,2024-01-19,505
+aave,Aave,2024-01-20,507
+aave,Aave,2024-01-21,508
+aave,Aave,2024-01-22,509
+aave,Aave,2024-01-23,510
+aave,Aave,2024-01-24,511
+aave,Aave,2024-01-26,512
+aave,Aave,2024-01-27,513
+aave,Aave,2024-01-28,517
+aave,Aave,2024-01-29,518
+aave,Aave,2024-01-30,519
+aave,Aave,2024-02-02,522
+aave,Aave,2024-02-03,523
+aave,Aave,2024-02-04,524
+aave,Aave,2024-02-09,531
+aave,Aave,2024-02-10,532
+aave,Aave,2024-02-11,533
+aave,Aave,2024-02-16,536
+aave,Aave,2024-02-17,537
+aave,Aave,2024-02-18,539
+aave,Aave,2024-02-23,541
+aave,Aave,2024-02-24,542
+aave,Aave,2024-02-25,544
+aave,Aave,2024-02-26,546
+aave,Aave,2024-02-27,547
+aave,Aave,2024-02-29,548
+aave,Aave,2024-03-04,550
+aave,Aave,2024-03-08,553
+aave,Aave,2024-03-10,555
+aave,Aave,2024-03-11,557
+aave,Aave,2024-03-14,558
+aave,Aave,2024-03-15,563
+aave,Aave,2024-03-17,565
+aave,Aave,2024-03-19,568
+aave,Aave,2024-03-20,569
+aave,Aave,2024-03-22,573
+aave,Aave,2024-03-25,574
+aave,Aave,2024-03-29,576
+aave,Aave,2024-03-30,577
+aave,Aave,2024-04-05,578
+aave,Aave,2024-04-06,580
+aave,Aave,2024-04-07,582
+aave,Aave,2024-04-12,585
+aave,Aave,2024-04-13,586
+aave,Aave,2024-04-14,587
+aave,Aave,2024-04-19,589
+aave,Aave,2024-04-20,590
+aave,Aave,2024-04-21,591
+aave,Aave,2024-04-22,592
+aave,Aave,2024-04-23,593
+aave,Aave,2024-04-26,595
+aave,Aave,2024-04-27,596
+aave,Aave,2024-04-28,597
+aave,Aave,2024-04-29,598
+aave,Aave,2024-04-30,599
+aave,Aave,2024-05-02,601
+aave,Aave,2024-05-04,602
+aave,Aave,2024-05-06,604
+aave,Aave,2024-05-10,608
+aave,Aave,2024-05-11,609
+aave,Aave,2024-05-12,610
+aave,Aave,2024-05-14,611
+aave,Aave,2024-05-18,613
+aave,Aave,2024-05-19,614
+aave,Aave,2024-05-20,615
+aave,Aave,2024-05-21,616
+aave,Aave,2024-05-23,618
+aave,Aave,2024-05-24,620
+aave,Aave,2024-05-31,621
+aave,Aave,2024-06-01,623
+aave,Aave,2024-06-02,624
+aave,Aave,2024-06-03,626
+aave,Aave,2024-06-05,627
+aave,Aave,2024-06-07,629
+aave,Aave,2024-06-14,632
+aave,Aave,2024-06-15,634
+aave,Aave,2024-06-21,638
+aave,Aave,2024-06-23,639
+aave,Aave,2024-06-24,640
+aave,Aave,2024-07-05,644
+aave,Aave,2024-07-06,645
+aave,Aave,2024-07-07,647
+aave,Aave,2024-07-12,648
+aave,Aave,2024-07-19,650
+aave,Aave,2024-07-20,651
+aave,Aave,2024-07-23,652
+aave,Aave,2024-07-25,655
+aave,Aave,2024-07-26,657
+aave,Aave,2024-07-29,659
+aave,Aave,2024-07-31,660
+aave,Aave,2024-08-02,661
+aave,Aave,2024-08-03,662
+aave,Aave,2024-08-04,663
+aave,Aave,2024-08-06,664
+apwine,Spectra,2024-03-05,2
+apwine,Spectra,2024-05-02,4
+apwine,Spectra,2024-06-11,7
+apwine,Spectra,2024-06-12,9
+apwine,Spectra,2024-06-17,10
+apwine,Spectra,2024-06-20,11
+apwine,Spectra,2024-06-24,12
+apwine,Spectra,2024-06-27,13
+apwine,Spectra,2024-07-10,15
+apwine,Spectra,2024-07-11,16
+apwine,Spectra,2024-07-14,18
+apwine,Spectra,2024-07-29,19
+balancer,Balancer,2020-07-19,3
+balancer,Balancer,2020-07-28,4
+balancer,Balancer,2020-08-02,5
+balancer,Balancer,2020-08-16,6
+balancer,Balancer,2020-08-23,10
+balancer,Balancer,2020-09-20,11
+balancer,Balancer,2020-09-27,13
+balancer,Balancer,2020-10-04,14
+balancer,Balancer,2020-10-11,15
+balancer,Balancer,2020-10-18,17
+balancer,Balancer,2020-11-08,18
+balancer,Balancer,2020-11-29,19
+balancer,Balancer,2020-12-13,20
+balancer,Balancer,2020-12-21,21
+balancer,Balancer,2021-01-17,22
+balancer,Balancer,2021-01-24,25
+balancer,Balancer,2021-02-07,28
+balancer,Balancer,2021-02-14,30
+balancer,Balancer,2021-02-21,33
+balancer,Balancer,2021-03-07,35
+balancer,Balancer,2021-04-04,36
+balancer,Balancer,2021-04-11,37
+balancer,Balancer,2021-04-18,39
+balancer,Balancer,2021-04-26,41
+balancer,Balancer,2021-05-09,43
+balancer,Balancer,2021-05-16,44
+balancer,Balancer,2021-06-14,45
+balancer,Balancer,2021-06-20,46
+balancer,Balancer,2021-06-27,47
+balancer,Balancer,2021-08-10,48
+balancer,Balancer,2021-08-15,50
+balancer,Balancer,2021-08-16,52
+balancer,Balancer,2021-08-23,53
+balancer,Balancer,2021-08-29,54
+balancer,Balancer,2021-09-06,56
+balancer,Balancer,2021-09-20,58
+balancer,Balancer,2021-10-01,59
+balancer,Balancer,2021-10-18,60
+balancer,Balancer,2021-10-27,61
+balancer,Balancer,2021-11-01,64
+balancer,Balancer,2021-11-08,65
+balancer,Balancer,2021-11-12,66
+balancer,Balancer,2021-11-22,68
+balancer,Balancer,2021-12-06,69
+balancer,Balancer,2021-12-10,70
+balancer,Balancer,2021-12-11,72
+balancer,Balancer,2021-12-13,73
+balancer,Balancer,2021-12-18,75
+balancer,Balancer,2021-12-21,76
+balancer,Balancer,2021-12-24,77
+balancer,Balancer,2022-01-15,78
+balancer,Balancer,2022-01-17,79
+balancer,Balancer,2022-01-28,80
+balancer,Balancer,2022-01-31,81
+balancer,Balancer,2022-02-13,82
+balancer,Balancer,2022-02-16,83
+balancer,Balancer,2022-02-18,84
+balancer,Balancer,2022-02-27,86
+balancer,Balancer,2022-03-11,88
+balancer,Balancer,2022-03-21,91
+balancer,Balancer,2022-03-25,92
+balancer,Balancer,2022-03-28,94
+balancer,Balancer,2022-03-29,95
+balancer,Balancer,2022-04-11,98
+balancer,Balancer,2022-04-17,100
+balancer,Balancer,2022-04-18,103
+balancer,Balancer,2022-04-21,104
+balancer,Balancer,2022-04-24,105
+balancer,Balancer,2022-04-28,109
+balancer,Balancer,2022-05-06,112
+balancer,Balancer,2022-05-08,117
+balancer,Balancer,2022-05-11,118
+balancer,Balancer,2022-05-12,119
+balancer,Balancer,2022-05-15,124
+balancer,Balancer,2022-05-19,125
+balancer,Balancer,2022-05-23,126
+balancer,Balancer,2022-05-24,127
+balancer,Balancer,2022-05-26,129
+balancer,Balancer,2022-05-30,131
+balancer,Balancer,2022-06-02,133
+balancer,Balancer,2022-06-05,137
+balancer,Balancer,2022-06-12,142
+balancer,Balancer,2022-06-14,143
+balancer,Balancer,2022-06-20,151
+balancer,Balancer,2022-06-26,156
+balancer,Balancer,2022-07-03,163
+balancer,Balancer,2022-07-05,165
+balancer,Balancer,2022-07-10,168
+balancer,Balancer,2022-07-17,169
+balancer,Balancer,2022-07-24,174
+balancer,Balancer,2022-07-31,178
+balancer,Balancer,2022-08-07,181
+balancer,Balancer,2022-08-14,183
+balancer,Balancer,2022-08-15,184
+balancer,Balancer,2022-08-21,189
+balancer,Balancer,2022-08-28,197
+balancer,Balancer,2022-09-04,201
+balancer,Balancer,2022-09-12,211
+balancer,Balancer,2022-09-19,213
+balancer,Balancer,2022-09-25,220
+balancer,Balancer,2022-10-02,225
+balancer,Balancer,2022-10-09,226
+balancer,Balancer,2022-10-16,233
+balancer,Balancer,2022-10-23,238
+balancer,Balancer,2022-10-30,246
+balancer,Balancer,2022-11-06,251
+balancer,Balancer,2022-11-13,255
+balancer,Balancer,2022-11-20,256
+balancer,Balancer,2022-11-27,257
+balancer,Balancer,2022-12-05,270
+balancer,Balancer,2022-12-12,276
+balancer,Balancer,2022-12-19,282
+balancer,Balancer,2022-12-20,283
+balancer,Balancer,2022-12-26,286
+balancer,Balancer,2023-01-09,290
+balancer,Balancer,2023-01-16,302
+balancer,Balancer,2023-01-23,305
+balancer,Balancer,2023-01-30,309
+balancer,Balancer,2023-02-06,313
+balancer,Balancer,2023-02-13,326
+balancer,Balancer,2023-02-20,338
+balancer,Balancer,2023-02-27,348
+balancer,Balancer,2023-03-06,350
+balancer,Balancer,2023-03-13,354
+balancer,Balancer,2023-03-20,359
+balancer,Balancer,2023-03-27,365
+balancer,Balancer,2023-04-03,372
+balancer,Balancer,2023-04-10,385
+balancer,Balancer,2023-04-17,396
+balancer,Balancer,2023-04-24,411
+balancer,Balancer,2023-05-01,419
+balancer,Balancer,2023-05-08,428
+balancer,Balancer,2023-05-15,435
+balancer,Balancer,2023-05-22,446
+balancer,Balancer,2023-05-29,454
+balancer,Balancer,2023-06-05,460
+balancer,Balancer,2023-06-12,466
+balancer,Balancer,2023-06-19,479
+balancer,Balancer,2023-06-26,486
+balancer,Balancer,2023-07-03,493
+balancer,Balancer,2023-07-10,496
+balancer,Balancer,2023-07-17,509
+balancer,Balancer,2023-07-24,520
+balancer,Balancer,2023-07-31,532
+balancer,Balancer,2023-08-07,539
+balancer,Balancer,2023-08-14,543
+balancer,Balancer,2023-08-21,548
+balancer,Balancer,2023-08-28,553
+balancer,Balancer,2023-09-04,561
+balancer,Balancer,2023-09-11,568
+balancer,Balancer,2023-09-18,574
+balancer,Balancer,2023-09-25,582
+balancer,Balancer,2023-10-02,587
+balancer,Balancer,2023-10-03,588
+balancer,Balancer,2023-10-09,590
+balancer,Balancer,2023-10-16,597
+balancer,Balancer,2023-10-23,602
+balancer,Balancer,2023-10-30,607
+balancer,Balancer,2023-11-06,617
+balancer,Balancer,2023-11-13,625
+balancer,Balancer,2023-11-20,632
+balancer,Balancer,2023-11-27,636
+balancer,Balancer,2023-12-04,643
+balancer,Balancer,2023-12-11,648
+balancer,Balancer,2023-12-18,653
+balancer,Balancer,2023-12-25,666
+balancer,Balancer,2024-01-01,668
+balancer,Balancer,2024-01-08,671
+balancer,Balancer,2024-01-15,678
+balancer,Balancer,2024-01-22,682
+balancer,Balancer,2024-02-05,685
+balancer,Balancer,2024-02-12,688
+balancer,Balancer,2024-02-19,692
+balancer,Balancer,2024-02-26,694
+balancer,Balancer,2024-03-04,699
+balancer,Balancer,2024-03-11,702
+balancer,Balancer,2024-03-18,703
+balancer,Balancer,2024-03-25,715
+balancer,Balancer,2024-04-01,721
+balancer,Balancer,2024-04-08,728
+balancer,Balancer,2024-04-22,735
+balancer,Balancer,2024-04-29,739
+balancer,Balancer,2024-05-06,748
+balancer,Balancer,2024-05-13,750
+balancer,Balancer,2024-05-20,753
+balancer,Balancer,2024-05-27,756
+balancer,Balancer,2024-06-03,761
+balancer,Balancer,2024-06-10,763
+balancer,Balancer,2024-06-17,769
+balancer,Balancer,2024-06-24,780
+balancer,Balancer,2024-07-01,793
+balancer,Balancer,2024-07-08,800
+balancer,Balancer,2024-07-15,805
+balancer,Balancer,2024-07-22,807
+balancer,Balancer,2024-07-29,808
+balancer,Balancer,2024-08-05,810
+index-cooperative,Index Cooperative,2020-04-28,1
+index-cooperative,Index Cooperative,2020-04-29,2
+index-cooperative,Index Cooperative,2020-05-16,3
+index-cooperative,Index Cooperative,2020-05-24,4
+index-cooperative,Index Cooperative,2020-06-03,5
+index-cooperative,Index Cooperative,2020-06-10,6
+index-cooperative,Index Cooperative,2020-06-12,7
+index-cooperative,Index Cooperative,2020-06-19,8
+index-cooperative,Index Cooperative,2020-06-20,9
+index-cooperative,Index Cooperative,2020-06-24,10
+index-cooperative,Index Cooperative,2020-06-29,11
+index-cooperative,Index Cooperative,2020-07-03,12
+index-cooperative,Index Cooperative,2020-07-06,13
+index-cooperative,Index Cooperative,2020-07-07,14
+index-cooperative,Index Cooperative,2020-07-10,15
+index-cooperative,Index Cooperative,2020-07-11,16
+index-cooperative,Index Cooperative,2020-07-21,17
+index-cooperative,Index Cooperative,2020-07-25,18
+index-cooperative,Index Cooperative,2020-08-14,19
+index-cooperative,Index Cooperative,2020-08-18,20
+index-cooperative,Index Cooperative,2020-08-28,21
+index-cooperative,Index Cooperative,2020-09-10,22
+index-cooperative,Index Cooperative,2020-09-18,23
+index-cooperative,Index Cooperative,2020-09-28,24
+index-cooperative,Index Cooperative,2020-09-30,25
+index-cooperative,Index Cooperative,2020-10-10,26
+index-cooperative,Index Cooperative,2020-10-14,27
+index-cooperative,Index Cooperative,2020-10-17,28
+index-cooperative,Index Cooperative,2020-11-03,29
+index-cooperative,Index Cooperative,2020-11-11,30
+index-cooperative,Index Cooperative,2020-11-20,31
+index-cooperative,Index Cooperative,2020-11-21,32
+index-cooperative,Index Cooperative,2020-12-04,33
+index-cooperative,Index Cooperative,2020-12-07,34
+index-cooperative,Index Cooperative,2020-12-08,35
+index-cooperative,Index Cooperative,2020-12-10,36
+index-cooperative,Index Cooperative,2020-12-14,37
+index-cooperative,Index Cooperative,2020-12-19,38
+index-cooperative,Index Cooperative,2020-12-23,41
+index-cooperative,Index Cooperative,2021-01-06,42
+index-cooperative,Index Cooperative,2021-01-11,43
+index-cooperative,Index Cooperative,2021-01-18,44
+index-cooperative,Index Cooperative,2021-01-23,45
+index-cooperative,Index Cooperative,2021-02-04,46
+index-cooperative,Index Cooperative,2021-02-05,47
+index-cooperative,Index Cooperative,2021-02-11,48
+index-cooperative,Index Cooperative,2021-02-13,49
+index-cooperative,Index Cooperative,2021-02-22,50
+index-cooperative,Index Cooperative,2021-02-27,51
+index-cooperative,Index Cooperative,2021-03-05,52
+index-cooperative,Index Cooperative,2021-03-10,53
+index-cooperative,Index Cooperative,2021-03-12,54
+index-cooperative,Index Cooperative,2021-03-13,55
+index-cooperative,Index Cooperative,2021-03-16,56
+index-cooperative,Index Cooperative,2021-03-25,57
+index-cooperative,Index Cooperative,2021-03-27,58
+index-cooperative,Index Cooperative,2021-04-02,59
+index-cooperative,Index Cooperative,2021-04-03,60
+index-cooperative,Index Cooperative,2021-04-10,62
+index-cooperative,Index Cooperative,2021-04-16,63
+index-cooperative,Index Cooperative,2021-04-18,65
+index-cooperative,Index Cooperative,2021-04-21,66
+index-cooperative,Index Cooperative,2021-04-22,68
+index-cooperative,Index Cooperative,2021-04-23,70
+index-cooperative,Index Cooperative,2021-04-24,73
+index-cooperative,Index Cooperative,2021-04-29,74
+index-cooperative,Index Cooperative,2021-04-30,77
+index-cooperative,Index Cooperative,2021-05-06,82
+index-cooperative,Index Cooperative,2021-05-09,83
+index-cooperative,Index Cooperative,2021-05-14,84
+index-cooperative,Index Cooperative,2021-05-15,85
+index-cooperative,Index Cooperative,2021-05-18,87
+index-cooperative,Index Cooperative,2021-05-20,89
+index-cooperative,Index Cooperative,2021-05-23,92
+index-cooperative,Index Cooperative,2021-05-26,95
+index-cooperative,Index Cooperative,2021-05-28,96
+index-cooperative,Index Cooperative,2021-06-05,97
+index-cooperative,Index Cooperative,2021-06-08,98
+index-cooperative,Index Cooperative,2021-06-10,100
+index-cooperative,Index Cooperative,2021-06-12,101
+index-cooperative,Index Cooperative,2021-06-13,102
+index-cooperative,Index Cooperative,2021-06-16,103
+index-cooperative,Index Cooperative,2021-06-18,104
+index-cooperative,Index Cooperative,2021-06-19,107
+index-cooperative,Index Cooperative,2021-06-24,108
+index-cooperative,Index Cooperative,2021-06-26,109
+index-cooperative,Index Cooperative,2021-06-27,110
+index-cooperative,Index Cooperative,2021-07-01,111
+index-cooperative,Index Cooperative,2021-07-02,112
+index-cooperative,Index Cooperative,2021-07-08,115
+index-cooperative,Index Cooperative,2021-07-10,116
+index-cooperative,Index Cooperative,2021-07-11,117
+index-cooperative,Index Cooperative,2021-07-15,120
+index-cooperative,Index Cooperative,2021-07-16,121
+index-cooperative,Index Cooperative,2021-07-21,122
+index-cooperative,Index Cooperative,2021-07-22,123
+index-cooperative,Index Cooperative,2021-07-23,124
+index-cooperative,Index Cooperative,2021-07-29,127
+index-cooperative,Index Cooperative,2021-07-30,128
+index-cooperative,Index Cooperative,2021-07-31,129
+index-cooperative,Index Cooperative,2021-08-04,130
+index-cooperative,Index Cooperative,2021-08-05,132
+index-cooperative,Index Cooperative,2021-08-06,135
+index-cooperative,Index Cooperative,2021-08-08,136
+index-cooperative,Index Cooperative,2021-08-09,137
+index-cooperative,Index Cooperative,2021-08-10,138
+index-cooperative,Index Cooperative,2021-08-12,144
+index-cooperative,Index Cooperative,2021-08-13,147
+index-cooperative,Index Cooperative,2021-08-19,149
+index-cooperative,Index Cooperative,2021-08-22,150
+index-cooperative,Index Cooperative,2021-08-23,151
+index-cooperative,Index Cooperative,2021-08-25,153
+index-cooperative,Index Cooperative,2021-08-26,154
+index-cooperative,Index Cooperative,2021-08-27,155
+index-cooperative,Index Cooperative,2021-08-28,157
+index-cooperative,Index Cooperative,2021-09-01,158
+index-cooperative,Index Cooperative,2021-09-02,159
+index-cooperative,Index Cooperative,2021-09-04,161
+index-cooperative,Index Cooperative,2021-09-08,162
+index-cooperative,Index Cooperative,2021-09-11,166
+index-cooperative,Index Cooperative,2021-09-13,168
+index-cooperative,Index Cooperative,2021-09-14,169
+index-cooperative,Index Cooperative,2021-09-15,170
+index-cooperative,Index Cooperative,2021-09-16,173
+index-cooperative,Index Cooperative,2021-09-22,174
+index-cooperative,Index Cooperative,2021-09-24,175
+index-cooperative,Index Cooperative,2021-09-25,176
+index-cooperative,Index Cooperative,2021-09-30,180
+index-cooperative,Index Cooperative,2021-10-02,181
+index-cooperative,Index Cooperative,2021-10-04,182
+index-cooperative,Index Cooperative,2021-10-06,184
+index-cooperative,Index Cooperative,2021-10-07,186
+index-cooperative,Index Cooperative,2021-10-13,187
+index-cooperative,Index Cooperative,2021-10-15,189
+index-cooperative,Index Cooperative,2021-10-17,190
+index-cooperative,Index Cooperative,2021-10-19,191
+index-cooperative,Index Cooperative,2021-10-20,192
+index-cooperative,Index Cooperative,2021-10-21,194
+index-cooperative,Index Cooperative,2021-10-22,195
+index-cooperative,Index Cooperative,2021-10-23,198
+index-cooperative,Index Cooperative,2021-10-26,199
+index-cooperative,Index Cooperative,2021-10-27,200
+index-cooperative,Index Cooperative,2021-10-28,201
+index-cooperative,Index Cooperative,2021-10-30,202
+index-cooperative,Index Cooperative,2021-10-31,203
+index-cooperative,Index Cooperative,2021-11-04,205
+index-cooperative,Index Cooperative,2021-11-05,206
+index-cooperative,Index Cooperative,2021-11-07,207
+index-cooperative,Index Cooperative,2021-11-09,209
+index-cooperative,Index Cooperative,2021-11-10,210
+index-cooperative,Index Cooperative,2021-11-11,216
+index-cooperative,Index Cooperative,2021-11-13,217
+index-cooperative,Index Cooperative,2021-11-18,221
+index-cooperative,Index Cooperative,2021-11-20,223
+index-cooperative,Index Cooperative,2021-11-21,224
+index-cooperative,Index Cooperative,2021-11-23,226
+index-cooperative,Index Cooperative,2021-11-25,228
+index-cooperative,Index Cooperative,2021-12-02,238
+index-cooperative,Index Cooperative,2021-12-04,239
+index-cooperative,Index Cooperative,2021-12-08,240
+index-cooperative,Index Cooperative,2021-12-09,242
+index-cooperative,Index Cooperative,2021-12-10,244
+index-cooperative,Index Cooperative,2021-12-15,246
+index-cooperative,Index Cooperative,2021-12-16,249
+index-cooperative,Index Cooperative,2021-12-17,255
+index-cooperative,Index Cooperative,2021-12-19,256
+index-cooperative,Index Cooperative,2021-12-22,257
+index-cooperative,Index Cooperative,2021-12-23,260
+index-cooperative,Index Cooperative,2021-12-24,261
+index-cooperative,Index Cooperative,2021-12-27,262
+index-cooperative,Index Cooperative,2021-12-28,264
+index-cooperative,Index Cooperative,2022-01-02,265
+index-cooperative,Index Cooperative,2022-01-06,266
+index-cooperative,Index Cooperative,2022-01-07,270
+index-cooperative,Index Cooperative,2022-01-08,271
+index-cooperative,Index Cooperative,2022-01-10,272
+index-cooperative,Index Cooperative,2022-01-14,276
+index-cooperative,Index Cooperative,2022-01-15,277
+index-cooperative,Index Cooperative,2022-01-16,278
+index-cooperative,Index Cooperative,2022-01-20,281
+index-cooperative,Index Cooperative,2022-01-21,282
+index-cooperative,Index Cooperative,2022-01-27,288
+index-cooperative,Index Cooperative,2022-01-28,289
+index-cooperative,Index Cooperative,2022-01-30,290
+index-cooperative,Index Cooperative,2022-02-02,291
+index-cooperative,Index Cooperative,2022-02-04,292
+index-cooperative,Index Cooperative,2022-02-06,293
+index-cooperative,Index Cooperative,2022-02-08,294
+index-cooperative,Index Cooperative,2022-02-09,295
+index-cooperative,Index Cooperative,2022-02-10,298
+index-cooperative,Index Cooperative,2022-02-12,299
+index-cooperative,Index Cooperative,2022-02-15,300
+index-cooperative,Index Cooperative,2022-02-17,301
+index-cooperative,Index Cooperative,2022-02-18,302
+index-cooperative,Index Cooperative,2022-02-19,304
+index-cooperative,Index Cooperative,2022-02-23,305
+index-cooperative,Index Cooperative,2022-02-24,309
+index-cooperative,Index Cooperative,2022-02-25,310
+index-cooperative,Index Cooperative,2022-02-26,313
+index-cooperative,Index Cooperative,2022-03-03,315
+index-cooperative,Index Cooperative,2022-03-05,316
+index-cooperative,Index Cooperative,2022-03-07,317
+index-cooperative,Index Cooperative,2022-03-09,318
+index-cooperative,Index Cooperative,2022-03-10,320
+index-cooperative,Index Cooperative,2022-03-13,321
+index-cooperative,Index Cooperative,2022-03-15,322
+index-cooperative,Index Cooperative,2022-03-17,325
+index-cooperative,Index Cooperative,2022-03-18,326
+index-cooperative,Index Cooperative,2022-03-19,328
+index-cooperative,Index Cooperative,2022-03-20,331
+index-cooperative,Index Cooperative,2022-03-21,332
+index-cooperative,Index Cooperative,2022-03-22,333
+index-cooperative,Index Cooperative,2022-03-23,334
+index-cooperative,Index Cooperative,2022-03-24,341
+index-cooperative,Index Cooperative,2022-03-26,342
+index-cooperative,Index Cooperative,2022-03-27,345
+index-cooperative,Index Cooperative,2022-03-28,346
+index-cooperative,Index Cooperative,2022-04-01,347
+index-cooperative,Index Cooperative,2022-04-04,348
+index-cooperative,Index Cooperative,2022-04-05,349
+index-cooperative,Index Cooperative,2022-04-07,354
+index-cooperative,Index Cooperative,2022-04-10,355
+index-cooperative,Index Cooperative,2022-04-12,356
+index-cooperative,Index Cooperative,2022-04-14,357
+index-cooperative,Index Cooperative,2022-04-20,359
+index-cooperative,Index Cooperative,2022-04-24,360
+index-cooperative,Index Cooperative,2022-04-25,362
+index-cooperative,Index Cooperative,2022-04-28,365
+index-cooperative,Index Cooperative,2022-04-29,367
+index-cooperative,Index Cooperative,2022-05-05,370
+index-cooperative,Index Cooperative,2022-05-12,372
+index-cooperative,Index Cooperative,2022-05-13,374
+index-cooperative,Index Cooperative,2022-05-16,376
+index-cooperative,Index Cooperative,2022-05-19,378
+index-cooperative,Index Cooperative,2022-05-24,379
+index-cooperative,Index Cooperative,2022-05-26,381
+index-cooperative,Index Cooperative,2022-06-01,382
+index-cooperative,Index Cooperative,2022-06-03,383
+index-cooperative,Index Cooperative,2022-06-04,384
+index-cooperative,Index Cooperative,2022-06-07,385
+index-cooperative,Index Cooperative,2022-06-09,389
+index-cooperative,Index Cooperative,2022-06-11,390
+index-cooperative,Index Cooperative,2022-06-15,392
+index-cooperative,Index Cooperative,2022-06-16,393
+index-cooperative,Index Cooperative,2022-06-23,394
+index-cooperative,Index Cooperative,2022-06-24,395
+index-cooperative,Index Cooperative,2022-07-02,396
+index-cooperative,Index Cooperative,2022-07-03,397
+index-cooperative,Index Cooperative,2022-07-10,398
+index-cooperative,Index Cooperative,2022-07-14,399
+index-cooperative,Index Cooperative,2022-07-17,400
+index-cooperative,Index Cooperative,2022-07-28,401
+index-cooperative,Index Cooperative,2022-08-11,402
+index-cooperative,Index Cooperative,2022-08-13,403
+index-cooperative,Index Cooperative,2022-08-18,404
+index-cooperative,Index Cooperative,2022-08-19,405
+index-cooperative,Index Cooperative,2022-08-20,406
+index-cooperative,Index Cooperative,2022-08-21,408
+index-cooperative,Index Cooperative,2022-08-22,409
+index-cooperative,Index Cooperative,2022-08-23,410
+index-cooperative,Index Cooperative,2022-08-24,411
+index-cooperative,Index Cooperative,2022-08-25,413
+index-cooperative,Index Cooperative,2022-08-26,414
+index-cooperative,Index Cooperative,2022-08-28,416
+index-cooperative,Index Cooperative,2022-08-31,418
+index-cooperative,Index Cooperative,2022-09-01,421
+index-cooperative,Index Cooperative,2022-09-02,423
+index-cooperative,Index Cooperative,2022-09-03,427
+index-cooperative,Index Cooperative,2022-09-05,430
+index-cooperative,Index Cooperative,2022-09-06,431
+index-cooperative,Index Cooperative,2022-09-07,432
+index-cooperative,Index Cooperative,2022-09-15,437
+index-cooperative,Index Cooperative,2022-09-22,440
+index-cooperative,Index Cooperative,2022-09-23,443
+index-cooperative,Index Cooperative,2022-09-26,447
+index-cooperative,Index Cooperative,2022-09-27,448
+index-cooperative,Index Cooperative,2022-09-29,450
+index-cooperative,Index Cooperative,2022-09-30,451
+index-cooperative,Index Cooperative,2022-10-01,452
+index-cooperative,Index Cooperative,2022-10-02,454
+index-cooperative,Index Cooperative,2022-10-04,455
+index-cooperative,Index Cooperative,2022-10-06,457
+index-cooperative,Index Cooperative,2022-10-08,459
+index-cooperative,Index Cooperative,2022-10-10,461
+index-cooperative,Index Cooperative,2022-10-11,462
+index-cooperative,Index Cooperative,2022-10-13,464
+index-cooperative,Index Cooperative,2022-10-15,465
+index-cooperative,Index Cooperative,2022-10-16,468
+index-cooperative,Index Cooperative,2022-10-18,469
+index-cooperative,Index Cooperative,2022-10-20,471
+index-cooperative,Index Cooperative,2022-10-23,474
+index-cooperative,Index Cooperative,2022-10-26,475
+index-cooperative,Index Cooperative,2022-10-27,480
+index-cooperative,Index Cooperative,2022-10-30,481
+index-cooperative,Index Cooperative,2022-11-01,482
+index-cooperative,Index Cooperative,2022-11-02,483
+index-cooperative,Index Cooperative,2022-11-03,485
+index-cooperative,Index Cooperative,2022-11-04,486
+index-cooperative,Index Cooperative,2022-11-09,488
+index-cooperative,Index Cooperative,2022-11-11,489
+index-cooperative,Index Cooperative,2022-11-13,491
+index-cooperative,Index Cooperative,2022-11-15,492
+index-cooperative,Index Cooperative,2022-11-16,496
+index-cooperative,Index Cooperative,2022-11-18,497
+index-cooperative,Index Cooperative,2022-11-19,498
+index-cooperative,Index Cooperative,2022-11-20,500
+index-cooperative,Index Cooperative,2022-11-21,502
+index-cooperative,Index Cooperative,2022-11-22,504
+index-cooperative,Index Cooperative,2022-11-23,505
+index-cooperative,Index Cooperative,2022-11-24,510
+index-cooperative,Index Cooperative,2022-11-25,514
+index-cooperative,Index Cooperative,2022-11-27,517
+index-cooperative,Index Cooperative,2022-11-28,520
+index-cooperative,Index Cooperative,2022-11-29,522
+index-cooperative,Index Cooperative,2022-12-01,523
+index-cooperative,Index Cooperative,2022-12-02,525
+index-cooperative,Index Cooperative,2022-12-03,527
+index-cooperative,Index Cooperative,2022-12-04,528
+index-cooperative,Index Cooperative,2022-12-07,529
+index-cooperative,Index Cooperative,2022-12-08,531
+index-cooperative,Index Cooperative,2022-12-09,534
+index-cooperative,Index Cooperative,2022-12-11,535
+index-cooperative,Index Cooperative,2022-12-12,536
+index-cooperative,Index Cooperative,2022-12-13,537
+index-cooperative,Index Cooperative,2022-12-14,538
+index-cooperative,Index Cooperative,2022-12-15,543
+index-cooperative,Index Cooperative,2022-12-16,545
+index-cooperative,Index Cooperative,2022-12-18,547
+index-cooperative,Index Cooperative,2022-12-19,548
+index-cooperative,Index Cooperative,2022-12-20,550
+index-cooperative,Index Cooperative,2022-12-21,552
+index-cooperative,Index Cooperative,2022-12-22,559
+index-cooperative,Index Cooperative,2022-12-23,563
+index-cooperative,Index Cooperative,2022-12-25,564
+index-cooperative,Index Cooperative,2022-12-30,565
+index-cooperative,Index Cooperative,2023-01-01,566
+index-cooperative,Index Cooperative,2023-01-05,567
+index-cooperative,Index Cooperative,2023-01-07,568
+index-cooperative,Index Cooperative,2023-01-08,572
+index-cooperative,Index Cooperative,2023-01-11,573
+index-cooperative,Index Cooperative,2023-01-12,576
+index-cooperative,Index Cooperative,2023-01-13,577
+index-cooperative,Index Cooperative,2023-01-14,579
+index-cooperative,Index Cooperative,2023-02-06,580
+index-cooperative,Index Cooperative,2023-02-08,582
+index-cooperative,Index Cooperative,2023-02-09,583
+index-cooperative,Index Cooperative,2023-02-10,585
+index-cooperative,Index Cooperative,2023-02-11,586
+index-cooperative,Index Cooperative,2023-02-12,589
+index-cooperative,Index Cooperative,2023-02-13,590
+index-cooperative,Index Cooperative,2023-02-14,591
+index-cooperative,Index Cooperative,2023-02-15,592
+index-cooperative,Index Cooperative,2023-02-16,593
+index-cooperative,Index Cooperative,2023-02-17,598
+index-cooperative,Index Cooperative,2023-02-18,600
+index-cooperative,Index Cooperative,2023-02-19,603
+index-cooperative,Index Cooperative,2023-02-20,607
+index-cooperative,Index Cooperative,2023-02-21,609
+index-cooperative,Index Cooperative,2023-02-22,612
+index-cooperative,Index Cooperative,2023-02-23,615
+index-cooperative,Index Cooperative,2023-02-24,618
+index-cooperative,Index Cooperative,2023-02-25,621
+index-cooperative,Index Cooperative,2023-02-26,623
+index-cooperative,Index Cooperative,2023-02-28,624
+index-cooperative,Index Cooperative,2023-03-02,631
+index-cooperative,Index Cooperative,2023-03-03,633
+index-cooperative,Index Cooperative,2023-03-04,635
+index-cooperative,Index Cooperative,2023-03-05,636
+index-cooperative,Index Cooperative,2023-03-08,642
+index-cooperative,Index Cooperative,2023-03-09,647
+index-cooperative,Index Cooperative,2023-03-10,649
+index-cooperative,Index Cooperative,2023-03-11,653
+index-cooperative,Index Cooperative,2023-03-12,658
+index-cooperative,Index Cooperative,2023-03-13,660
+index-cooperative,Index Cooperative,2023-03-14,661
+index-cooperative,Index Cooperative,2023-03-15,665
+index-cooperative,Index Cooperative,2023-03-16,668
+index-cooperative,Index Cooperative,2023-03-17,670
+index-cooperative,Index Cooperative,2023-03-18,671
+index-cooperative,Index Cooperative,2023-03-19,675
+index-cooperative,Index Cooperative,2023-03-21,676
+index-cooperative,Index Cooperative,2023-03-22,678
+index-cooperative,Index Cooperative,2023-03-23,679
+index-cooperative,Index Cooperative,2023-03-25,682
+index-cooperative,Index Cooperative,2023-03-26,683
+index-cooperative,Index Cooperative,2023-03-27,684
+index-cooperative,Index Cooperative,2023-03-28,687
+index-cooperative,Index Cooperative,2023-03-29,692
+index-cooperative,Index Cooperative,2023-03-30,697
+index-cooperative,Index Cooperative,2023-03-31,700
+index-cooperative,Index Cooperative,2023-04-02,705
+index-cooperative,Index Cooperative,2023-04-03,707
+index-cooperative,Index Cooperative,2023-04-04,709
+index-cooperative,Index Cooperative,2023-04-05,710
+index-cooperative,Index Cooperative,2023-04-06,713
+index-cooperative,Index Cooperative,2023-04-07,715
+index-cooperative,Index Cooperative,2023-04-09,717
+index-cooperative,Index Cooperative,2023-04-10,718
+index-cooperative,Index Cooperative,2023-04-11,720
+index-cooperative,Index Cooperative,2023-04-12,722
+index-cooperative,Index Cooperative,2023-04-13,723
+index-cooperative,Index Cooperative,2023-04-14,726
+index-cooperative,Index Cooperative,2023-04-15,728
+index-cooperative,Index Cooperative,2023-04-17,729
+index-cooperative,Index Cooperative,2023-04-19,731
+index-cooperative,Index Cooperative,2023-04-20,732
+index-cooperative,Index Cooperative,2023-04-23,736
+index-cooperative,Index Cooperative,2023-04-27,739
+index-cooperative,Index Cooperative,2023-04-28,743
+index-cooperative,Index Cooperative,2023-04-29,746
+index-cooperative,Index Cooperative,2023-04-30,749
+index-cooperative,Index Cooperative,2023-05-02,750
+index-cooperative,Index Cooperative,2023-05-03,752
+index-cooperative,Index Cooperative,2023-05-04,756
+index-cooperative,Index Cooperative,2023-05-06,761
+index-cooperative,Index Cooperative,2023-05-08,762
+index-cooperative,Index Cooperative,2023-05-10,766
+index-cooperative,Index Cooperative,2023-05-11,768
+index-cooperative,Index Cooperative,2023-05-12,774
+index-cooperative,Index Cooperative,2023-05-13,775
+index-cooperative,Index Cooperative,2023-05-14,777
+index-cooperative,Index Cooperative,2023-05-15,778
+index-cooperative,Index Cooperative,2023-05-16,779
+index-cooperative,Index Cooperative,2023-05-18,794
+index-cooperative,Index Cooperative,2023-05-19,796
+index-cooperative,Index Cooperative,2023-05-21,798
+index-cooperative,Index Cooperative,2023-05-22,799
+index-cooperative,Index Cooperative,2023-05-23,800
+index-cooperative,Index Cooperative,2023-05-24,803
+index-cooperative,Index Cooperative,2023-05-25,805
+index-cooperative,Index Cooperative,2023-05-26,806
+index-cooperative,Index Cooperative,2023-05-27,808
+index-cooperative,Index Cooperative,2023-05-29,817
+index-cooperative,Index Cooperative,2023-05-30,820
+index-cooperative,Index Cooperative,2023-05-31,834
+index-cooperative,Index Cooperative,2023-06-01,836
+index-cooperative,Index Cooperative,2023-06-02,837
+index-cooperative,Index Cooperative,2023-06-03,839
+index-cooperative,Index Cooperative,2023-06-04,841
+index-cooperative,Index Cooperative,2023-06-05,845
+index-cooperative,Index Cooperative,2023-06-07,846
+index-cooperative,Index Cooperative,2023-06-08,847
+index-cooperative,Index Cooperative,2023-06-09,849
+index-cooperative,Index Cooperative,2023-06-10,853
+index-cooperative,Index Cooperative,2023-06-11,854
+index-cooperative,Index Cooperative,2023-06-14,856
+index-cooperative,Index Cooperative,2023-06-15,860
+index-cooperative,Index Cooperative,2023-06-16,869
+index-cooperative,Index Cooperative,2023-06-17,872
+index-cooperative,Index Cooperative,2023-06-21,874
+index-cooperative,Index Cooperative,2023-06-22,875
+index-cooperative,Index Cooperative,2023-06-23,876
+index-cooperative,Index Cooperative,2023-06-24,877
+index-cooperative,Index Cooperative,2023-06-25,878
+index-cooperative,Index Cooperative,2023-06-26,879
+index-cooperative,Index Cooperative,2023-06-27,880
+index-cooperative,Index Cooperative,2023-06-29,885
+index-cooperative,Index Cooperative,2023-06-30,889
+index-cooperative,Index Cooperative,2023-07-01,896
+index-cooperative,Index Cooperative,2023-07-03,899
+index-cooperative,Index Cooperative,2023-07-05,900
+index-cooperative,Index Cooperative,2023-07-06,901
+index-cooperative,Index Cooperative,2023-07-07,904
+index-cooperative,Index Cooperative,2023-07-08,907
+index-cooperative,Index Cooperative,2023-07-13,912
+index-cooperative,Index Cooperative,2023-07-14,915
+index-cooperative,Index Cooperative,2023-07-15,917
+index-cooperative,Index Cooperative,2023-07-19,918
+index-cooperative,Index Cooperative,2023-07-22,919
+index-cooperative,Index Cooperative,2023-07-25,920
+index-cooperative,Index Cooperative,2023-07-27,927
+index-cooperative,Index Cooperative,2023-07-28,929
+index-cooperative,Index Cooperative,2023-07-29,931
+index-cooperative,Index Cooperative,2023-07-30,932
+index-cooperative,Index Cooperative,2023-07-31,934
+index-cooperative,Index Cooperative,2023-08-01,935
+index-cooperative,Index Cooperative,2023-08-02,937
+index-cooperative,Index Cooperative,2023-08-04,938
+index-cooperative,Index Cooperative,2023-08-07,939
+index-cooperative,Index Cooperative,2023-08-08,940
+index-cooperative,Index Cooperative,2023-08-09,942
+index-cooperative,Index Cooperative,2023-08-10,944
+index-cooperative,Index Cooperative,2023-08-11,946
+index-cooperative,Index Cooperative,2023-08-15,947
+index-cooperative,Index Cooperative,2023-08-16,948
+index-cooperative,Index Cooperative,2023-08-17,954
+index-cooperative,Index Cooperative,2023-08-18,957
+index-cooperative,Index Cooperative,2023-08-19,958
+index-cooperative,Index Cooperative,2023-08-24,960
+index-cooperative,Index Cooperative,2023-08-25,962
+index-cooperative,Index Cooperative,2023-08-27,963
+index-cooperative,Index Cooperative,2023-08-28,965
+index-cooperative,Index Cooperative,2023-08-29,968
+index-cooperative,Index Cooperative,2023-08-31,969
+index-cooperative,Index Cooperative,2023-09-01,970
+index-cooperative,Index Cooperative,2023-09-02,973
+index-cooperative,Index Cooperative,2023-09-04,974
+index-cooperative,Index Cooperative,2023-09-06,980
+index-cooperative,Index Cooperative,2023-09-07,981
+index-cooperative,Index Cooperative,2023-09-09,983
+index-cooperative,Index Cooperative,2023-09-10,984
+index-cooperative,Index Cooperative,2023-09-11,985
+index-cooperative,Index Cooperative,2023-09-12,986
+index-cooperative,Index Cooperative,2023-09-13,988
+index-cooperative,Index Cooperative,2023-09-14,989
+index-cooperative,Index Cooperative,2023-09-15,994
+index-cooperative,Index Cooperative,2023-09-17,995
+index-cooperative,Index Cooperative,2023-09-18,999
+index-cooperative,Index Cooperative,2023-09-20,1002
+index-cooperative,Index Cooperative,2023-09-21,1003
+index-cooperative,Index Cooperative,2023-09-22,1005
+index-cooperative,Index Cooperative,2023-09-24,1010
+index-cooperative,Index Cooperative,2023-09-25,1015
+index-cooperative,Index Cooperative,2023-09-26,1016
+index-cooperative,Index Cooperative,2023-09-28,1022
+index-cooperative,Index Cooperative,2023-10-02,1023
+index-cooperative,Index Cooperative,2023-10-03,1024
+index-cooperative,Index Cooperative,2023-10-05,1027
+index-cooperative,Index Cooperative,2023-10-07,1028
+index-cooperative,Index Cooperative,2023-10-09,1030
+index-cooperative,Index Cooperative,2023-10-13,1036
+index-cooperative,Index Cooperative,2023-10-14,1037
+index-cooperative,Index Cooperative,2023-10-15,1038
+index-cooperative,Index Cooperative,2023-10-16,1039
+index-cooperative,Index Cooperative,2023-10-18,1041
+index-cooperative,Index Cooperative,2023-10-19,1044
+index-cooperative,Index Cooperative,2023-10-20,1046
+index-cooperative,Index Cooperative,2023-10-22,1049
+index-cooperative,Index Cooperative,2023-10-25,1050
+index-cooperative,Index Cooperative,2023-10-26,1051
+index-cooperative,Index Cooperative,2023-10-27,1052
+index-cooperative,Index Cooperative,2023-11-02,1055
+index-cooperative,Index Cooperative,2023-11-03,1057
+index-cooperative,Index Cooperative,2023-11-05,1060
+index-cooperative,Index Cooperative,2023-11-06,1061
+index-cooperative,Index Cooperative,2023-11-07,1062
+index-cooperative,Index Cooperative,2023-11-09,1063
+index-cooperative,Index Cooperative,2023-11-10,1070
+index-cooperative,Index Cooperative,2023-11-11,1072
+index-cooperative,Index Cooperative,2023-11-12,1073
+index-cooperative,Index Cooperative,2023-11-13,1074
+index-cooperative,Index Cooperative,2023-11-14,1075
+index-cooperative,Index Cooperative,2023-11-16,1079
+index-cooperative,Index Cooperative,2023-11-17,1081
+index-cooperative,Index Cooperative,2023-11-19,1082
+index-cooperative,Index Cooperative,2023-11-20,1083
+index-cooperative,Index Cooperative,2023-11-21,1084
+index-cooperative,Index Cooperative,2023-11-23,1089
+index-cooperative,Index Cooperative,2023-11-28,1090
+index-cooperative,Index Cooperative,2023-11-30,1097
+index-cooperative,Index Cooperative,2023-12-01,1098
+index-cooperative,Index Cooperative,2023-12-02,1101
+index-cooperative,Index Cooperative,2023-12-04,1102
+index-cooperative,Index Cooperative,2023-12-05,1103
+index-cooperative,Index Cooperative,2023-12-06,1111
+index-cooperative,Index Cooperative,2023-12-07,1113
+index-cooperative,Index Cooperative,2023-12-08,1117
+index-cooperative,Index Cooperative,2023-12-09,1119
+index-cooperative,Index Cooperative,2023-12-10,1120
+index-cooperative,Index Cooperative,2023-12-11,1124
+index-cooperative,Index Cooperative,2023-12-12,1125
+index-cooperative,Index Cooperative,2023-12-13,1126
+index-cooperative,Index Cooperative,2023-12-14,1127
+index-cooperative,Index Cooperative,2023-12-15,1128
+index-cooperative,Index Cooperative,2023-12-19,1130
+index-cooperative,Index Cooperative,2023-12-21,1131
+index-cooperative,Index Cooperative,2023-12-28,1133
+index-cooperative,Index Cooperative,2024-01-05,1134
+index-cooperative,Index Cooperative,2024-01-06,1136
+index-cooperative,Index Cooperative,2024-01-10,1139
+index-cooperative,Index Cooperative,2024-01-11,1140
+index-cooperative,Index Cooperative,2024-01-12,1142
+index-cooperative,Index Cooperative,2024-01-13,1143
+index-cooperative,Index Cooperative,2024-01-15,1147
+index-cooperative,Index Cooperative,2024-01-18,1149
+index-cooperative,Index Cooperative,2024-01-19,1152
+index-cooperative,Index Cooperative,2024-01-20,1153
+index-cooperative,Index Cooperative,2024-01-21,1154
+index-cooperative,Index Cooperative,2024-01-22,1155
+index-cooperative,Index Cooperative,2024-01-23,1156
+index-cooperative,Index Cooperative,2024-01-25,1158
+index-cooperative,Index Cooperative,2024-01-26,1160
+index-cooperative,Index Cooperative,2024-01-27,1164
+index-cooperative,Index Cooperative,2024-01-28,1165
+index-cooperative,Index Cooperative,2024-01-29,1167
+index-cooperative,Index Cooperative,2024-02-01,1169
+index-cooperative,Index Cooperative,2024-02-02,1170
+index-cooperative,Index Cooperative,2024-02-03,1171
+index-cooperative,Index Cooperative,2024-02-04,1172
+index-cooperative,Index Cooperative,2024-02-08,1177
+index-cooperative,Index Cooperative,2024-02-09,1179
+index-cooperative,Index Cooperative,2024-02-10,1180
+index-cooperative,Index Cooperative,2024-02-15,1184
+index-cooperative,Index Cooperative,2024-02-16,1186
+index-cooperative,Index Cooperative,2024-02-17,1188
+index-cooperative,Index Cooperative,2024-02-20,1189
+index-cooperative,Index Cooperative,2024-02-22,1191
+index-cooperative,Index Cooperative,2024-02-23,1194
+index-cooperative,Index Cooperative,2024-02-24,1199
+index-cooperative,Index Cooperative,2024-02-25,1203
+index-cooperative,Index Cooperative,2024-02-26,1206
+index-cooperative,Index Cooperative,2024-02-29,1207
+index-cooperative,Index Cooperative,2024-03-01,1209
+index-cooperative,Index Cooperative,2024-03-03,1211
+index-cooperative,Index Cooperative,2024-03-06,1212
+index-cooperative,Index Cooperative,2024-03-07,1215
+index-cooperative,Index Cooperative,2024-03-08,1216
+index-cooperative,Index Cooperative,2024-03-09,1219
+index-cooperative,Index Cooperative,2024-03-10,1221
+index-cooperative,Index Cooperative,2024-03-13,1222
+index-cooperative,Index Cooperative,2024-03-14,1227
+index-cooperative,Index Cooperative,2024-03-15,1233
+index-cooperative,Index Cooperative,2024-03-16,1235
+index-cooperative,Index Cooperative,2024-03-18,1240
+index-cooperative,Index Cooperative,2024-03-19,1243
+index-cooperative,Index Cooperative,2024-03-21,1249
+index-cooperative,Index Cooperative,2024-03-23,1250
+index-cooperative,Index Cooperative,2024-03-24,1251
+index-cooperative,Index Cooperative,2024-03-25,1253
+index-cooperative,Index Cooperative,2024-03-28,1255
+index-cooperative,Index Cooperative,2024-03-29,1257
+index-cooperative,Index Cooperative,2024-04-04,1259
+index-cooperative,Index Cooperative,2024-04-05,1261
+index-cooperative,Index Cooperative,2024-04-07,1262
+index-cooperative,Index Cooperative,2024-04-12,1263
+index-cooperative,Index Cooperative,2024-04-14,1264
+index-cooperative,Index Cooperative,2024-04-19,1265
+index-cooperative,Index Cooperative,2024-04-26,1266
+index-cooperative,Index Cooperative,2024-04-27,1268
+index-cooperative,Index Cooperative,2024-05-03,1270
+index-cooperative,Index Cooperative,2024-05-14,1271
+index-cooperative,Index Cooperative,2024-05-17,1272
+index-cooperative,Index Cooperative,2024-05-23,1273
+index-cooperative,Index Cooperative,2024-05-31,1275
+index-cooperative,Index Cooperative,2024-06-04,1276
+index-cooperative,Index Cooperative,2024-06-07,1277
+index-cooperative,Index Cooperative,2024-06-09,1278
+index-cooperative,Index Cooperative,2024-06-14,1279
+index-cooperative,Index Cooperative,2024-06-17,1280
+index-cooperative,Index Cooperative,2024-06-18,1281
+index-cooperative,Index Cooperative,2024-06-21,1282
+index-cooperative,Index Cooperative,2024-06-25,1287
+index-cooperative,Index Cooperative,2024-06-28,1288
+index-cooperative,Index Cooperative,2024-06-29,1290
+index-cooperative,Index Cooperative,2024-07-02,1291
+index-cooperative,Index Cooperative,2024-07-04,1293
+index-cooperative,Index Cooperative,2024-07-05,1295
+index-cooperative,Index Cooperative,2024-07-11,1297
+index-cooperative,Index Cooperative,2024-07-12,1298
+index-cooperative,Index Cooperative,2024-07-17,1299
+index-cooperative,Index Cooperative,2024-07-18,1300
+index-cooperative,Index Cooperative,2024-07-19,1303
+index-cooperative,Index Cooperative,2024-07-23,1304
+index-cooperative,Index Cooperative,2024-07-24,1305
+index-cooperative,Index Cooperative,2024-07-25,1307
+index-cooperative,Index Cooperative,2024-07-26,1309
+index-cooperative,Index Cooperative,2024-07-27,1310
+index-cooperative,Index Cooperative,2024-07-31,1312
+index-cooperative,Index Cooperative,2024-08-02,1314
+index-cooperative,Index Cooperative,2024-08-03,1316
+uniswap,Uniswap,2020-09-27,1
+uniswap,Uniswap,2020-11-01,2
+uniswap,Uniswap,2020-11-16,3
+uniswap,Uniswap,2020-11-19,4
+uniswap,Uniswap,2020-11-28,5
+uniswap,Uniswap,2020-12-12,6
+uniswap,Uniswap,2021-04-03,7
+uniswap,Uniswap,2021-05-28,8
+uniswap,Uniswap,2021-05-29,9
+uniswap,Uniswap,2021-05-31,10
+uniswap,Uniswap,2021-06-03,11
+uniswap,Uniswap,2021-06-05,13
+uniswap,Uniswap,2021-06-17,14
+uniswap,Uniswap,2021-06-22,15
+uniswap,Uniswap,2021-06-25,16
+uniswap,Uniswap,2021-07-09,17
+uniswap,Uniswap,2021-07-11,18
+uniswap,Uniswap,2021-07-13,19
+uniswap,Uniswap,2021-07-17,20
+uniswap,Uniswap,2021-07-20,22
+uniswap,Uniswap,2021-07-22,23
+uniswap,Uniswap,2021-07-25,24
+uniswap,Uniswap,2021-07-29,25
+uniswap,Uniswap,2021-07-31,26
+uniswap,Uniswap,2021-08-01,27
+uniswap,Uniswap,2021-08-03,28
+uniswap,Uniswap,2021-08-14,29
+uniswap,Uniswap,2021-08-28,30
+uniswap,Uniswap,2021-09-20,31
+uniswap,Uniswap,2021-10-20,32
+uniswap,Uniswap,2021-10-29,33
+uniswap,Uniswap,2021-11-10,34
+uniswap,Uniswap,2021-11-19,35
+uniswap,Uniswap,2021-11-25,36
+uniswap,Uniswap,2021-12-03,38
+uniswap,Uniswap,2021-12-16,39
+uniswap,Uniswap,2021-12-21,40
+uniswap,Uniswap,2022-01-22,41
+uniswap,Uniswap,2022-02-12,42
+uniswap,Uniswap,2022-02-14,43
+uniswap,Uniswap,2022-02-17,44
+uniswap,Uniswap,2022-02-21,45
+uniswap,Uniswap,2022-03-04,46
+uniswap,Uniswap,2022-03-12,47
+uniswap,Uniswap,2022-03-13,48
+uniswap,Uniswap,2022-03-20,49
+uniswap,Uniswap,2022-03-21,50
+uniswap,Uniswap,2022-03-25,51
+uniswap,Uniswap,2022-03-26,52
+uniswap,Uniswap,2022-04-02,53
+uniswap,Uniswap,2022-04-07,54
+uniswap,Uniswap,2022-04-18,55
+uniswap,Uniswap,2022-06-05,56
+uniswap,Uniswap,2022-07-01,57
+uniswap,Uniswap,2022-07-16,58
+uniswap,Uniswap,2022-07-21,59
+uniswap,Uniswap,2022-08-09,60
+uniswap,Uniswap,2022-08-10,61
+uniswap,Uniswap,2022-08-15,62
+uniswap,Uniswap,2022-09-16,63
+uniswap,Uniswap,2022-09-24,65
+uniswap,Uniswap,2022-10-17,67
+uniswap,Uniswap,2022-11-17,68
+uniswap,Uniswap,2022-11-24,69
+uniswap,Uniswap,2022-11-29,70
+uniswap,Uniswap,2022-12-03,71
+uniswap,Uniswap,2022-12-04,72
+uniswap,Uniswap,2022-12-21,73
+uniswap,Uniswap,2023-01-13,75
+uniswap,Uniswap,2023-01-22,76
+uniswap,Uniswap,2023-01-31,77
+uniswap,Uniswap,2023-02-07,78
+uniswap,Uniswap,2023-02-16,79
+uniswap,Uniswap,2023-02-22,81
+uniswap,Uniswap,2023-03-03,82
+uniswap,Uniswap,2023-03-09,83
+uniswap,Uniswap,2023-03-12,84
+uniswap,Uniswap,2023-03-29,85
+uniswap,Uniswap,2023-04-03,86
+uniswap,Uniswap,2023-04-13,87
+uniswap,Uniswap,2023-04-30,88
+uniswap,Uniswap,2023-05-31,90
+uniswap,Uniswap,2023-06-01,93
+uniswap,Uniswap,2023-06-17,94
+uniswap,Uniswap,2023-06-24,95
+uniswap,Uniswap,2023-07-04,96
+uniswap,Uniswap,2023-08-12,97
+uniswap,Uniswap,2023-08-19,98
+uniswap,Uniswap,2023-08-30,99
+uniswap,Uniswap,2023-09-05,100
+uniswap,Uniswap,2023-10-10,101
+uniswap,Uniswap,2023-10-14,103
+uniswap,Uniswap,2023-10-27,104
+uniswap,Uniswap,2023-10-28,105
+uniswap,Uniswap,2023-11-06,106
+uniswap,Uniswap,2023-11-22,107
+uniswap,Uniswap,2023-12-07,113
+uniswap,Uniswap,2024-01-13,115
+uniswap,Uniswap,2024-01-20,116
+uniswap,Uniswap,2024-02-04,126
+uniswap,Uniswap,2024-02-07,127
+uniswap,Uniswap,2024-03-06,128
+uniswap,Uniswap,2024-03-09,129
+uniswap,Uniswap,2024-03-31,130
+uniswap,Uniswap,2024-04-08,131
+uniswap,Uniswap,2024-04-16,132
+uniswap,Uniswap,2024-04-17,133
+uniswap,Uniswap,2024-04-20,134
+uniswap,Uniswap,2024-05-05,136
+uniswap,Uniswap,2024-05-13,137
+uniswap,Uniswap,2024-05-18,138
+uniswap,Uniswap,2024-06-22,139
+uniswap,Uniswap,2024-07-27,140
+uniswap,Uniswap,2024-08-07,141
+yearn-finance,yearn.finance,2023-04-26,1
+yearn-finance,yearn.finance,2023-07-15,2
+yearn-finance,yearn.finance,2023-08-30,4
+yearn-finance,yearn.finance,2023-10-17,5
+yearn-finance,yearn.finance,2023-10-19,6
+yearn-finance,yearn.finance,2023-11-02,7
+yearn-finance,yearn.finance,2023-11-16,8
+yearn-finance,yearn.finance,2023-11-30,9
+yearn-finance,yearn.finance,2023-12-14,10
+yearn-finance,yearn.finance,2023-12-28,11
+yearn-finance,yearn.finance,2024-01-11,12
+yearn-finance,yearn.finance,2024-01-25,13
+yearn-finance,yearn.finance,2024-02-08,14
+yearn-finance,yearn.finance,2024-02-10,15
+yearn-finance,yearn.finance,2024-02-22,16
+yearn-finance,yearn.finance,2024-03-05,17
+yearn-finance,yearn.finance,2024-03-07,18
+yearn-finance,yearn.finance,2024-03-17,19
+yearn-finance,yearn.finance,2024-03-21,21
+yearn-finance,yearn.finance,2024-04-03,22
+yearn-finance,yearn.finance,2024-04-17,23
+yearn-finance,yearn.finance,2024-05-01,24
+yearn-finance,yearn.finance,2024-05-15,25
+yearn-finance,yearn.finance,2024-05-29,26
+yearn-finance,yearn.finance,2024-06-06,27
+yearn-finance,yearn.finance,2024-06-12,28
+yearn-finance,yearn.finance,2024-06-26,29
+yearn-finance,yearn.finance,2024-07-10,30
+yearn-finance,yearn.finance,2024-07-24,31
+yearn-finance,yearn.finance,2024-07-31,32
+yearn-finance,yearn.finance,2024-08-07,33

@@ -1,0 +1,101 @@
+name,symbol,id,market_cap
+Ethereum,eth,ethereum,439790867552.76666
+BNB,bnb,binancecoin,86323960659.40782
+Tether,usdt,tether,78396945715.20705
+USDC,usdc,usd-coin,42213673134.9147
+Shiba Inu,shib,shiba-inu,18446881460.696194
+Polygon,matic,matic-network,17486345321.449097
+BUSD,busd,binance-usd,14450959879.658882
+Cronos,cro,crypto-com-chain,14179177137.439732
+Wrapped Bitcoin,wbtc,wrapped-bitcoin,11987159887.13018
+Chainlink,link,chainlink,9194057554.954636
+Dai,dai,dai,8945308696.334341
+NEAR Protocol,near,near,8854169171.25533
+Uniswap,uni,uniswap,7753293078.668879
+OKB,okb,okb,7594479147.796583
+Axie Infinity,axs,axie-infinity,6363826978.230659
+Lido Staked Ether,steth,staked-ether,5985253188.664137
+Fantom,ftm,fantom,5770125110.46783
+The Sandbox,sand,the-sandbox,5431529869.372406
+cETH,ceth,compound-ether,5338761097.215351
+Magic Internet Money (Ethereum),mim,magic-internet-money,4566318486.873393
+Decentraland,mana,decentraland,4371312037.220074
+cDAI,cdai,cdai,3551030671.919729
+LEO Token,leo,leo-token,3534064310.936075
+Aave,aave,aave,3459438031.863206
+GALA,gala,gala,3436332243.1991854
+The Graph,grt,the-graph,3412594969.190235
+PancakeSwap,cake,pancakeswap-token,3007268180.631973
+cUSDC,cusdc,compound-usd-coin,2904012348.020299
+Loopring,lrc,loopring,2640857980.5934267
+Enjin Coin,enj,enjincoin,2428818603.789483
+Quant,qnt,quant-network,2399352199.4878817
+Amp,amp,amp-token,2329337030.9210744
+Convex Finance,cvx,convex-finance,2178369463.340751
+Olympus,ohm,olympus,2147973922.583061
+Curve DAO,crv,curve-dao-token,2123316192.6950116
+Maker,mkr,maker,2114974365.4390922
+Spell,spell,spell-token,1879847829.6317983
+Celsius Network,cel,celsius-degree-token,1854476935.2826476
+Huobi BTC,hbtc,huobi-btc,1851970683.3271656
+Sushi,sushi,sushi,1827103398.9830294
+Basic Attention,bat,basic-attention-token,1823551644.1379006
+Frax,frax,frax,1812050599.7416532
+Chiliz,chz,chiliz,1524414365.8161361
+ECOMI,omi,ecomi,1510350279.7966096
+Huobi,ht,huobi-token,1484443996.0146616
+Waves,waves,waves,1459758404.599437
+Frax Share,fxs,frax-share,1370682956.651253
+NEXO,nexo,nexo,1338335816.4001133
+Holo,hot,holotoken,1314448663.2637506
+TrueUSD,tusd,true-usd,1292641541.6675117
+Compound,comp,compound-governance-token,1266899303.3843055
+XDC Network,xdc,xdce-crowd-sale,1199614485.2712233
+yearn.finance,yfi,yearn-finance,1188960666.4714813
+IoTeX,iotx,iotex,1177258500.8037126
+Synthetix Network,snx,havven,1082204545.7286267
+Pax Dollar,usdp,paxos-standard,1035595791.2511344
+Zilliqa,zil,zilliqa,1034160599.6099994
+Gate,gt,gatechain-token,1032290446.7040718
+1inch,1inch,1inch,1013679600.0730757
+Gnosis,gno,gnosis,995703339.9909633
+Livepeer,lpt,livepeer,988279520.1927966
+e-Radix,exrd,e-radix,979981979.771387
+Immutable,imx,immutable-x,923213739.616105
+Render,render,render-token,900323028.0479977
+Dogelon Mars,elon,dogelon-mars,875047899.9970787
+Ethereum Name Service,ens,ethereum-name-service,871693244.0256529
+Liquity USD,lusd,liquity-usd,867581558.8753145
+WAX,waxp,wax,854392269.3262169
+Nexus Mutual,nxm,nxm,848664016.0372473
+Audius,audio,audius,830694499.4167612
+OMG Network,omg,omisego,829693217.7253846
+Velas,vlx,velas,827521591.4681418
+Ankr Network,ankr,ankr,825394644.5446597
+renBTC,renbtc,renbtc,811374926.2858275
+Fei USD,fei,fei-usd,780962000.752249
+Rally,rly,rally-2,765151368.0237508
+Bancor Network,bnt,bancor,759586743.577823
+WOO,woo,woo-network,753457378.1450806
+Telcoin,tel,telcoin,708848679.4206191
+0x Protocol,zrx,0x,686205926.9574513
+xSUSHI,xsushi,xsushi,684359302.496049
+Rocket Pool,rpl,rocket-pool,677543873.5749835
+Smooth Love Potion,slp,smooth-love-potion,667084617.071396
+Illuvium,ilv,illuvium,644080399.1473341
+UFO Gaming,ufo,ufo-gaming,609801514.4597719
+ConstitutionDAO,people,constitutiondao,595860505.086717
+dYdX,ethdydx,dydx,592622894.7994766
+UMA,uma,uma,587119096.9898173
+SwissBorg,borg,swissborg,565719752.7778647
+Mask Network,mask,mask-network,559812951.101946
+Perpetual Protocol,perp,perpetual-protocol,547804953.2660084
+SKALE,skl,skale,537425917.1291828
+Ren,ren,republic-protocol,531727667.3666029
+Aragon,ant,aragon,508022308.5038384
+Synapse,syn,synapse-2,484626064.3646462
+Golem,glm,golem,469842638.5772004
+Yield Guild Games,ygg,yield-guild-games,469618590.71377015
+FLEX Coin,flex,flex-coin,466354650.7456654
+Chromia,chr,chromaway,464730826.6522621
+Tribe,tribe,tribe-2,459169387.18145716
