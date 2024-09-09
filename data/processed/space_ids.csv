@@ -1,7 +1,0 @@
-id,name,platform,space_id
-uniswap,Uniswap,snapshot,uniswapgovernance.eth
-aave,Aave,snapshot,aave.eth
-yearn-finance,YFI,snapshot,veyfi.eth
-balancer,Balancer,snapshot,balancer.eth
-index-cooperative,Index Coop,snapshot,index-coop.eth
-apwine,Spectra,snapshot,spectradao.eth
